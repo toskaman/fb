@@ -1,6 +1,827 @@
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+0','\0','\56','\0','\0','\0','\56',
+'\0','\0','\0','\56','\0','\0','\0','\56','\0','\0','\0','\56','\0','\0','\0','\56','\0','\0','\0','\56','\0','\0','\0','\57',
+'\0','\0','\0','\57','\0','\0','\0','\57','\0','\0','\0','\57','\0','\0','\0','\57','\0','\0','\0','\58','\0','\0','\0','\56',
+'\0','\0','\0','\59','\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63',
+'\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63',
+'\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\63','\0','\0','\0','\64',
+'\0','\0','\0','\64','\0','\0','\0','\64','\0','\0','\0','\64','\0','\0','\0','\64','\0','\0','\0','\64','\0','\0','\0','\64',
+'\0','\0','\0','\64','\0','\0','\0','\64','\0','\0','\0','\64','\0','\0','\0','\64','\0','\0','\0','\64','\0','\0','\0','\64',
+'\0','\0','\0','\64','\0','\0','\0','\67','\0','\0','\0','\67','\0','\0','\0','\67','\0','\0','\0','\67','\0','\0','\0','\68',
+'\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68',
+'\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68',
+'\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\68',
+'\0','\0','\0','\68','\0','\0','\0','\68','\0','\0','\0','\69','\0','\0','\0','\69','\0','\0','\0','\69','\0','\0','\0','\69',
+'\0','\0','\0','\69','\0','\0','\0','\70','\0','\0','\0','\70','\0','\0','\0','\70','\0','\0','\0','\71','\0','\0','\0','\71',
+'\0','\0','\0','\71','\0','\0','\0','\71','\0','\0','\0','\71','\0','\0','\0','\71','\0','\0','\0','\71','\0','\0','\0','\72',
+'\0','\0','\0','\72','\0','\0','\0','\72','\0','\0','\0','\68','\0','\0','\0','\73','\0','\0','\0','\77','\0','\0','\0','\77',
+'\0','\0','\0','\77','\0','\0','\0','\77','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78',
+'\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78',
+'\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78',
+'\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\78','\0','\0','\0','\79',
+'\0','\0','\0','\79','\0','\0','\0','\79','\0','\0','\0','\79','\0','\0','\0','\79','\0','\0','\0','\80','\0','\0','\0','\80',
+'\0','\0','\0','\80','\0','\0','\0','\80','\0','\0','\0','\80','\0','\0','\0','\80','\0','\0','\0','\80','\0','\0','\0','\80',
+'\0','\0','\0','\81','\0','\0','\0','\83','\0','\0','\0','\83','\0','\0','\0','\83','\0','\0','\0','\83','\0','\0','\0','\84',
+'\0','\0','\0','\84','\0','\0','\0','\84','\0','\0','\0','\84','\0','\0','\0','\85','\0','\0','\0','\85','\0','\0','\0','\85',
+'\0','\0','\0','\85','\0','\0','\0','\86','\0','\0','\0','\86','\0','\0','\0','\86','\0','\0','\0','\86','\0','\0','\0','\88',
+'\0','\0','\0','\88','\0','\0','\0','\88','\0','\0','\0','\88','\0','\0','\0','\88','\0','\0','\0','\88','\0','\0','\0','\88',
+'\0','\0','\0','\89','\0','\0','\0','\89','\0','\0','\0','\89','\0','\0','\0','\90','\0','\0','\0','\90','\0','\0','\0','\90',
+'\0','\0','\0','\78','\0','\0','\0','\92','\0','\0','\0','\96','\0','\0','\0','\96','\0','\0','\0','\96','\0','\0','\0','\96',
+'\0','\0','\0','\97','\0','\0','\0','\97','\0','\0','\0','\98','\0','\0','\0','\99','\0','\0','\0','\100','\0','\0','\0',
+'\101','\0','\0','\0','\102','\0','\0','\0','\102','\0','\0','\0','\102','\0','\0','\0','\102','\0','\0','\0','\102','\0',
+'\0','\0','\102','\0','\0','\0','\102','\0','\0','\0','\103','\0','\0','\0','\103','\0','\0','\0','\103','\0','\0','\0','\103',
+'\0','\0','\0','\103','\0','\0','\0','\106','\0','\0','\0','\106','\0','\0','\0','\106','\0','\0','\0','\106','\0','\0','\0',
+'\107','\0','\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\107','\0',
+'\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\107',
+'\0','\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\107','\0','\0','\0','\108','\0','\0','\0',
+'\108','\0','\0','\0','\108','\0','\0','\0','\108','\0','\0','\0','\109','\0','\0','\0','\109','\0','\0','\0','\109','\0',
+'\0','\0','\110','\0','\0','\0','\110','\0','\0','\0','\110','\0','\0','\0','\110','\0','\0','\0','\110','\0','\0','\0','\110',
+'\0','\0','\0','\110','\0','\0','\0','\111','\0','\0','\0','\111','\0','\0','\0','\111','\0','\0','\0','\107','\0','\0','\0',
+'\112','\0','\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\116','\0',
+'\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\116',
+'\0','\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\116','\0','\0','\0','\117','\0','\0','\0',
+'\118','\0','\0','\0','\119','\0','\0','\0','\119','\0','\0','\0','\119','\0','\0','\0','\119','\0','\0','\0','\119','\0',
+'\0','\0','\119','\0','\0','\0','\119','\0','\0','\0','\120','\0','\0','\0','\120','\0','\0','\0','\120','\0','\0','\0','\120',
+'\0','\0','\0','\116','\0','\0','\0','\120','\0','\0','\0','\122','\0','\0','\0','\122','\0','\0','\0','\122','\0','\0','\0',
+'\122','\0','\0','\0','\122','\0','\0','\0','\122','\0','\0','\0','\122','\0','\0','\0','\122','\0','\0','\0','\122','\0',
+'\0','\0','\122','\0','\0','\0','\123','\0','\0','\0','\123','\0','\0','\0','\123','\0','\0','\0','\123','\0','\0','\0','\123',
+'\0','\0','\0','\124','\0','\0','\0','\124','\0','\0','\0','\124','\0','\0','\0','\124','\0','\0','\0','\124','\0','\0','\0',
+'\124','\0','\0','\0','\124','\0','\0','\0','\124','\0','\0','\0','\124','\0','\0','\0','\125','\0','\0','\0','\125','\0',
+'\0','\0','\125','\0','\0','\0','\125','\0','\0','\0','\125','\0','\0','\0','\125','\0','\0','\0','\125','\0','\0','\0','\125',
+'\0','\0','\0','\125','\0','\0','\0','\122','\0','\0','\0','\126','\0','\0','\0','\127','\0','\0','\0','\129','\0','\0','\0',
+'\44','\0','\0','\0','\16','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\103','\101','\110','\101',
+'\114','\97','\116','\111','\114','\41','\0','\56','\0','\0','\0','\65','\0','\0','\0','\12','\0','\0','\0','\0','\0','\0',
+'\0','\40','\102','\111','\114','\32','\115','\116','\97','\116','\101','\41','\0','\56','\0','\0','\0','\65','\0','\0','\0',
+'\14','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\99','\111','\110','\116','\114','\111','\108',
+'\41','\0','\56','\0','\0','\0','\65','\0','\0','\0','\2','\0','\0','\0','\0','\0','\0','\0','\95','\0','\57','\0','\0','\0',
+'\63','\0','\0','\0','\2','\0','\0','\0','\0','\0','\0','\0','\118','\0','\57','\0','\0','\0','\63','\0','\0','\0','\16',
+'\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\103','\101','\110','\101','\114','\97','\116','\111',
+'\114','\41','\0','\119','\0','\0','\0','\140','\0','\0','\0','\12','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111',
+'\114','\32','\115','\116','\97','\116','\101','\41','\0','\119','\0','\0','\0','\140','\0','\0','\0','\14','\0','\0','\0',
+'\0','\0','\0','\0','\40','\102','\111','\114','\32','\99','\111','\110','\116','\114','\111','\108','\41','\0','\119','\0',
+'\0','\0','\140','\0','\0','\0','\2','\0','\0','\0','\0','\0','\0','\0','\95','\0','\120','\0','\0','\0','\138','\0','\0',
+'\0','\2','\0','\0','\0','\0','\0','\0','\0','\118','\0','\120','\0','\0','\0','\138','\0','\0','\0','\4','\0','\0','\0',
+'\0','\0','\0','\0','\65','\95','\49','\0','\128','\0','\0','\0','\138','\0','\0','\0','\6','\0','\0','\0','\0','\0','\0',
+'\0','\69','\118','\101','\110','\116','\0','\135','\0','\0','\0','\138','\0','\0','\0','\16','\0','\0','\0','\0','\0','\0',
+'\0','\40','\102','\111','\114','\32','\103','\101','\110','\101','\114','\97','\116','\111','\114','\41','\0','\164','\0',
+'\0','\0','\210','\0','\0','\0','\12','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\115','\116','\97',
+'\116','\101','\41','\0','\164','\0','\0','\0','\210','\0','\0','\0','\14','\0','\0','\0','\0','\0','\0','\0','\40','\102',
+'\111','\114','\32','\99','\111','\110','\116','\114','\111','\108','\41','\0','\164','\0','\0','\0','\210','\0','\0','\0',
+'\2','\0','\0','\0','\0','\0','\0','\0','\95','\0','\165','\0','\0','\0','\208','\0','\0','\0','\2','\0','\0','\0','\0','\0',
+'\0','\0','\118','\0','\165','\0','\0','\0','\208','\0','\0','\0','\4','\0','\0','\0','\0','\0','\0','\0','\65','\95','\49',
+'\0','\195','\0','\0','\0','\208','\0','\0','\0','\6','\0','\0','\0','\0','\0','\0','\0','\69','\118','\101','\110','\116',
+'\0','\202','\0','\0','\0','\208','\0','\0','\0','\4','\0','\0','\0','\0','\0','\0','\0','\65','\95','\49','\0','\217','\0',
+'\0','\0','\232','\0','\0','\0','\4','\0','\0','\0','\0','\0','\0','\0','\65','\95','\50','\0','\218','\0','\0','\0','\232',
+'\0','\0','\0','\4','\0','\0','\0','\0','\0','\0','\0','\65','\95','\50','\0','\219','\0','\0','\0','\232','\0','\0','\0',
+'\4','\0','\0','\0','\0','\0','\0','\0','\65','\95','\51','\0','\220','\0','\0','\0','\232','\0','\0','\0','\6','\0','\0',
+'\0','\0','\0','\0','\0','\69','\118','\101','\110','\116','\0','\227','\0','\0','\0','\232','\0','\0','\0','\16','\0','\0',
+'\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\103','\101','\110','\101','\114','\97','\116','\111','\114','\41',
+'\0','\251','\0','\0','\0','\15','\1','\0','\0','\12','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32',
+'\115','\116','\97','\116','\101','\41','\0','\251','\0','\0','\0','\15','\1','\0','\0','\14','\0','\0','\0','\0','\0','\0',
+'\0','\40','\102','\111','\114','\32','\99','\111','\110','\116','\114','\111','\108','\41','\0','\251','\0','\0','\0','\15',
+'\1','\0','\0','\2','\0','\0','\0','\0','\0','\0','\0','\95','\0','\252','\0','\0','\0','\13','\1','\0','\0','\2','\0','\0',
+'\0','\0','\0','\0','\0','\118','\0','\252','\0','\0','\0','\13','\1','\0','\0','\4','\0','\0','\0','\0','\0','\0','\0','\65',
+'\95','\49','\0','\3','\1','\0','\0','\13','\1','\0','\0','\6','\0','\0','\0','\0','\0','\0','\0','\69','\118','\101','\110',
+'\116','\0','\10','\1','\0','\0','\13','\1','\0','\0','\16','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114',
+'\32','\103','\101','\110','\101','\114','\97','\116','\111','\114','\41','\0','\29','\1','\0','\0','\45','\1','\0','\0',
+'\12','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\115','\116','\97','\116','\101','\41','\0','\29',
+'\1','\0','\0','\45','\1','\0','\0','\14','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\99','\111',
+'\110','\116','\114','\111','\108','\41','\0','\29','\1','\0','\0','\45','\1','\0','\0','\2','\0','\0','\0','\0','\0','\0',
+'\0','\95','\0','\30','\1','\0','\0','\43','\1','\0','\0','\2','\0','\0','\0','\0','\0','\0','\0','\118','\0','\30','\1',
+'\0','\0','\43','\1','\0','\0','\4','\0','\0','\0','\0','\0','\0','\0','\65','\95','\49','\0','\31','\1','\0','\0','\43',
+'\1','\0','\0','\4','\0','\0','\0','\0','\0','\0','\0','\65','\95','\50','\0','\32','\1','\0','\0','\43','\1','\0','\0','\6',
+'\0','\0','\0','\0','\0','\0','\0','\69','\118','\101','\110','\116','\0','\39','\1','\0','\0','\43','\1','\0','\0','\16',
+'\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\103','\101','\110','\101','\114','\97','\116','\111',
+'\114','\41','\0','\54','\1','\0','\0','\80','\1','\0','\0','\12','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111',
+'\114','\32','\115','\116','\97','\116','\101','\41','\0','\54','\1','\0','\0','\80','\1','\0','\0','\14','\0','\0','\0',
+'\0','\0','\0','\0','\40','\102','\111','\114','\32','\99','\111','\110','\116','\114','\111','\108','\41','\0','\54','\1',
+'\0','\0','\80','\1','\0','\0','\2','\0','\0','\0','\0','\0','\0','\0','\95','\0','\55','\1','\0','\0','\78','\1','\0','\0',
+'\2','\0','\0','\0','\0','\0','\0','\0','\118','\0','\55','\1','\0','\0','\78','\1','\0','\0','\0','\0','\0','\0','\0','\0',
+'\0','\0','\0','\0','\0','\0','\131','\0','\0','\0','\150','\0','\0','\0','\0','\0','\0','\13','\85','\0','\0','\0','\5',
+'\0','\0','\0','\28','\128','\128','\0','\26','\0','\0','\0','\22','\192','\19','\128','\5','\64','\0','\0','\6','\128','\64',
+'\0','\26','\0','\0','\0','\22','\192','\18','\128','\5','\192','\0','\0','\69','\0','\1','\0','\75','\64','\193','\0','\193',
+'\128','\1','\0','\92','\128','\128','\1','\70','\192','\193','\0','\75','\0','\194','\0','\92','\0','\0','\1','\28','\0',
+'\1','\0','\22','\128','\15','\128','\75','\65','\66','\2','\193','\129','\2','\0','\92','\129','\128','\1','\90','\1','\0',
+'\0','\22','\64','\14','\128','\64','\1','\0','\2','\130','\1','\0','\0','\197','\1','\1','\0','\203','\65','\193','\3','\65',
+'\194','\2','\0','\220','\129','\128','\1','\198','\1','\195','\3','\198','\65','\195','\3','\198','\129','\195','\3','\11',
+'\194','\195','\3','\128','\2','\128','\2','\192','\2','\0','\3','\28','\66','\0','\2','\5','\2','\0','\0','\28','\66','\128',
+'\0','\5','\2','\4','\0','\69','\2','\1','\0','\70','\66','\196','\4','\70','\130','\196','\4','\70','\194','\196','\4','\70',
+'\2','\197','\4','\133','\2','\1','\0','\139','\66','\65','\5','\1','\131','\1','\0','\156','\130','\128','\1','\134','\66',
+'\69','\5','\134','\130','\69','\5','\134','\194','\69','\5','\193','\2','\6','\0','\28','\66','\0','\2','\5','\2','\4','\0',
+'\69','\2','\1','\0','\70','\66','\196','\4','\70','\130','\196','\4','\70','\194','\196','\4','\70','\2','\197','\4','\133',
+'\2','\1','\0','\139','\66','\65','\5','\1','\131','\1','\0','\156','\130','\128','\1','\134','\66','\69','\5','\134','\130',
+'\69','\5','\134','\194','\69','\5','\193','\66','\6','\0','\28','\66','\0','\2','\5','\66','\0','\0','\6','\130','\70','\4',
+'\26','\2','\0','\0','\22','\0','\2','\128','\5','\2','\1','\0','\11','\66','\65','\4','\129','\194','\2','\0','\28','\130',
+'\128','\1','\6','\2','\67','\4','\6','\66','\67','\4','\6','\194','\70','\4','\75','\194','\67','\4','\92','\66','\0','\1',
+'\33','\128','\0','\0','\22','\128','\239','\127','\22','\192','\234','\127','\30','\0','\128','\0','\28','\0','\0','\0',
+'\4','\5','\0','\0','\0','\0','\0','\0','\0','\119','\97','\105','\116','\0','\4','\3','\0','\0','\0','\0','\0','\0','\0',
+'\95','\71','\0','\4','\5','\0','\0','\0','\0','\0','\0','\0','\77','\69','\69','\69','\0','\4','\6','\0','\0','\0','\0',
+'\0','\0','\0','\112','\97','\105','\114','\115','\0','\4','\5','\0','\0','\0','\0','\0','\0','\0','\103','\97','\109','\101',
+'\0','\4','\11','\0','\0','\0','\0','\0','\0','\0','\71','\101','\116','\83','\101','\114','\118','\105','\99','\101','\0',
+'\4','\10','\0','\0','\0','\0','\0','\0','\0','\87','\111','\114','\107','\115','\112','\97','\99','\101','\0','\4','\6',
+'\0','\0','\0','\0','\0','\0','\0','\67','\111','\105','\110','\115','\0','\4','\12','\0','\0','\0','\0','\0','\0','\0','\71',
+'\101','\116','\67','\104','\105','\108','\100','\114','\101','\110','\0','\4','\15','\0','\0','\0','\0','\0','\0','\0','\70',
+'\105','\110','\100','\70','\105','\114','\115','\116','\67','\104','\105','\108','\100','\0','\4','\5','\0','\0','\0','\0',
+'\0','\0','\0','\66','\97','\115','\101','\0','\4','\18','\0','\0','\0','\0','\0','\0','\0','\82','\101','\112','\108','\105',
+'\99','\97','\116','\101','\100','\83','\116','\111','\114','\97','\103','\101','\0','\4','\7','\0','\0','\0','\0','\0','\0',
+'\0','\69','\118','\101','\110','\116','\115','\0','\4','\11','\0','\0','\0','\0','\0','\0','\0','\71','\97','\109','\101',
+'\69','\118','\101','\110','\116','\115','\0','\4','\12','\0','\0','\0','\0','\0','\0','\0','\67','\111','\108','\108','\101',
+'\99','\116','\67','\111','\105','\110','\0','\4','\11','\0','\0','\0','\0','\0','\0','\0','\70','\105','\114','\101','\83',
+'\101','\114','\118','\101','\114','\0','\4','\18','\0','\0','\0','\0','\0','\0','\0','\102','\105','\114','\101','\116',
+'\111','\117','\99','\104','\105','\110','\116','\101','\114','\101','\115','\116','\0','\4','\8','\0','\0','\0','\0','\0',
+'\0','\0','\80','\108','\97','\121','\101','\114','\115','\0','\4','\12','\0','\0','\0','\0','\0','\0','\0','\76','\111',
+'\99','\97','\108','\80','\108','\97','\121','\101','\114','\0','\4','\10','\0','\0','\0','\0','\0','\0','\0','\67','\104',
+'\97','\114','\97','\99','\116','\101','\114','\0','\4','\17','\0','\0','\0','\0','\0','\0','\0','\72','\117','\109','\97',
+'\110','\111','\105','\100','\82','\111','\111','\116','\80','\97','\114','\116','\0','\4','\6','\0','\0','\0','\0','\0',
+'\0','\0','\82','\105','\110','\103','\115','\0','\4','\7','\0','\0','\0','\0','\0','\0','\0','\83','\101','\108','\108',
+'\120','\54','\0','\4','\6','\0','\0','\0','\0','\0','\0','\0','\84','\111','\117','\99','\104','\0','\3','\0','\0','\0',
+'\0','\0','\0','\0','\0','\3','\0','\0','\0','\0','\0','\0','\240','\63','\4','\16','\0','\0','\0','\0','\0','\0','\0','\85',
+'\112','\103','\114','\97','\100','\101','\66','\97','\99','\107','\112','\97','\99','\107','\0','\4','\15','\0','\0','\0',
+'\0','\0','\0','\0','\85','\112','\103','\114','\97','\100','\101','\83','\116','\111','\114','\97','\103','\101','\0','\0',
+'\0','\0','\0','\85','\0','\0','\0','\132','\0','\0','\0','\132','\0','\0','\0','\132','\0','\0','\0','\132','\0','\0','\0',
+'\132','\0','\0','\0','\132','\0','\0','\0','\132','\0','\0','\0','\132','\0','\0','\0','\133','\0','\0','\0','\133','\0',
+'\0','\0','\133','\0','\0','\0','\133','\0','\0','\0','\133','\0','\0','\0','\133','\0','\0','\0','\133','\0','\0','\0','\133',
+'\0','\0','\0','\133','\0','\0','\0','\133','\0','\0','\0','\134','\0','\0','\0','\134','\0','\0','\0','\134','\0','\0','\0',
+'\134','\0','\0','\0','\134','\0','\0','\0','\135','\0','\0','\0','\136','\0','\0','\0','\137','\0','\0','\0','\137','\0',
+'\0','\0','\137','\0','\0','\0','\137','\0','\0','\0','\137','\0','\0','\0','\137','\0','\0','\0','\137','\0','\0','\0','\138',
+'\0','\0','\0','\138','\0','\0','\0','\138','\0','\0','\0','\138','\0','\0','\0','\139','\0','\0','\0','\139','\0','\0','\0',
+'\140','\0','\0','\0','\140','\0','\0','\0','\140','\0','\0','\0','\140','\0','\0','\0','\140','\0','\0','\0','\140','\0',
+'\0','\0','\140','\0','\0','\0','\140','\0','\0','\0','\140','\0','\0','\0','\140','\0','\0','\0','\140','\0','\0','\0','\140',
+'\0','\0','\0','\140','\0','\0','\0','\140','\0','\0','\0','\140','\0','\0','\0','\141','\0','\0','\0','\141','\0','\0','\0',
+'\141','\0','\0','\0','\141','\0','\0','\0','\141','\0','\0','\0','\141','\0','\0','\0','\141','\0','\0','\0','\141','\0',
+'\0','\0','\141','\0','\0','\0','\141','\0','\0','\0','\141','\0','\0','\0','\141','\0','\0','\0','\141','\0','\0','\0','\141',
+'\0','\0','\0','\141','\0','\0','\0','\142','\0','\0','\0','\142','\0','\0','\0','\142','\0','\0','\0','\142','\0','\0','\0',
+'\143','\0','\0','\0','\143','\0','\0','\0','\143','\0','\0','\0','\143','\0','\0','\0','\143','\0','\0','\0','\143','\0',
+'\0','\0','\143','\0','\0','\0','\144','\0','\0','\0','\144','\0','\0','\0','\133','\0','\0','\0','\146','\0','\0','\0','\147',
+'\0','\0','\0','\150','\0','\0','\0','\9','\0','\0','\0','\16','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114',
+'\32','\103','\101','\110','\101','\114','\97','\116','\111','\114','\41','\0','\17','\0','\0','\0','\83','\0','\0','\0',
+'\12','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\115','\116','\97','\116','\101','\41','\0','\17',
+'\0','\0','\0','\83','\0','\0','\0','\14','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\99','\111',
+'\110','\116','\114','\111','\108','\41','\0','\17','\0','\0','\0','\83','\0','\0','\0','\2','\0','\0','\0','\0','\0','\0',
+'\0','\95','\0','\18','\0','\0','\0','\81','\0','\0','\0','\2','\0','\0','\0','\0','\0','\0','\0','\118','\0','\18','\0',
+'\0','\0','\81','\0','\0','\0','\4','\0','\0','\0','\0','\0','\0','\0','\65','\95','\49','\0','\24','\0','\0','\0','\81',
+'\0','\0','\0','\4','\0','\0','\0','\0','\0','\0','\0','\65','\95','\50','\0','\25','\0','\0','\0','\81','\0','\0','\0','\6',
+'\0','\0','\0','\0','\0','\0','\0','\69','\118','\101','\110','\116','\0','\32','\0','\0','\0','\81','\0','\0','\0','\6',
+'\0','\0','\0','\0','\0','\0','\0','\69','\118','\101','\110','\116','\0','\79','\0','\0','\0','\81','\0','\0','\0','\0',
+'\0','\0','\0','\44','\0','\0','\0','\22','\0','\0','\0','\6','\0','\0','\0','\24','\0','\0','\0','\24','\0','\0','\0','\24',
+'\0','\0','\0','\24','\0','\0','\0','\24','\0','\0','\0','\24','\0','\0','\0','\24','\0','\0','\0','\24','\0','\0','\0','\24',
+'\0','\0','\0','\24','\0','\0','\0','\24','\0','\0','\0','\24','\0','\0','\0','\24','\0','\0','\0','\24','\0','\0','\0','\24',
+'\0','\0','\0','\25','\0','\0','\0','\24','\0','\0','\0','\25','\0','\0','\0','\28','\0','\0','\0','\28','\0','\0','\0','\28',
+'\0','\0','\0','\28','\0','\0','\0','\28','\0','\0','\0','\28','\0','\0','\0','\28','\0','\0','\0','\28','\0','\0','\0','\28',
+'\0','\0','\0','\28','\0','\0','\0','\28','\0','\0','\0','\31','\0','\0','\0','\35','\0','\0','\0','\31','\0','\0','\0','\37',
+'\0','\0','\0','\46','\0','\0','\0','\37','\0','\0','\0','\49','\0','\0','\0','\129','\0','\0','\0','\49','\0','\0','\0',
+'\131','\0','\0','\0','\150','\0','\0','\0','\131','\0','\0','\0','\153','\0','\0','\0','\5','\0','\0','\0','\16','\0','\0',
+'\0','\0','\0','\0','\0','\40','\102','\111','\114','\32','\103','\101','\110','\101','\114','\97','\116','\111','\114','\41',
+'\0','\16','\0','\0','\0','\20','\0','\0','\0','\12','\0','\0','\0','\0','\0','\0','\0','\40','\102','\111','\114','\32',
+'\115','\116','\97','\116','\101','\41','\0','\16','\0','\0','\0','\20','\0','\0','\0','\14','\0','\0','\0','\0','\0','\0',
+'\0','\40','\102','\111','\114','\32','\99','\111','\110','\116','\114','\111','\108','\41','\0','\16','\0','\0','\0','\20',
+'\0','\0','\0','\2','\0','\0','\0','\0','\0','\0','\0','\95','\0','\17','\0','\0','\0','\18','\0','\0','\0','\2','\0','\0',
+'\0','\0','\0','\0','\0','\118','\0','\17','\0','\0','\0','\18','\0','\0','\0','\0','\0','\0','\0'}
 
+local IlIIlIlIIIlllIlIlIIlIlIlIlIIIlIIIII = {
+"ABC",  "ABx", "ABC",  "ABC",
+"ABC",  "ABx", "ABC",  "ABx", 
+"ABC",  "ABC", "ABC",  "ABC",
+"ABC",  "ABC", "ABC",  "ABC",
+"ABC",  "ABC", "ABC",  "ABC",
+"ABC",  "ABC", "AsBx", "ABC",
+"ABC",  "ABC", "ABC",  "ABC",
+"ABC",  "ABC", "ABC",  "AsBx",
+"AsBx", "ABC", "ABC", "ABC",
+"ABx",  "ABC",}
+local llllIIlIllIIlIllIIllIlIlIIlIIIllIlI = {
+"MOVE",     "LOADK",     "LOADBOOL", "LOADNIL",
+"GETUPVAL", "GETGLOBAL", "GETTABLE", "SETGLOBAL",
+"SETUPVAL", "SETTABLE",  "NEWTABLE", "SELF",
+"ADD",      "SUB",       "MUL",      "DIV",
+"MOD",      "POW",       "UNM",      "NOT",
+"LEN",      "CONCAT",    "JMP",      "EQ",
+"LT",       "LE",        "TEST",     "TESTSET",
+"CALL",     "TAILCALL",  "RETURN",   "FORLOOP",
+"FORPREP",  "TFORLOOP",  "SETLIST",  "CLOSE",
+"CLOSURE",  "VARARG"
+};
+local function get_bits(input, n, n2)
+if n2 then
+local total = 0
+local digitn = 0
+for i = n, n2 do
+total = total + 2^digitn*get_bits(input, i)
+digitn = digitn + 1
+end
+return total
+else
+local pn = 2^(n-1)
+return (input % (pn + pn) >= pn) and 1 or 0
+end
+end
+local function lIlIIIlllIlIIIIlIIIllIlIIIIIlIlIlll(IlIlllllllIllIlIllIlIlllIIIIIlIIlll)
+local index = 1
+local big_endian = false
+local int_size;
+local size_t;
+local get_int, get_size_t;
+local get_int8, get_int32, get_int64, get_float64, get_string;
+do
+function get_int8()
+local a = IlIlllllllIllIlIllIlIlllIIIIIlIIlll:byte(index, index);
+index = index + 1
+return a
+end
+function get_int32()
+local a, b, c, d = IlIlllllllIllIlIllIlIlllIIIIIlIIlll:byte(index, index + 3);
+index = index + 4;
+return d*16777216 + c*65536 + b*256 + a
+end
+function get_int64()
+local a = get_int32();
+local b = get_int32();
+return b*4294967296 + a;
+end
+function get_float64()
+local a = get_int32()
+local b = get_int32()
+return (-2*get_bits(b, 32)+1)*(2^(get_bits(b, 21, 31)-1023))*
+((get_bits(b, 1, 20)*(2^32) + a)/(2^52)+1)
+end
+function get_string(len)
+local str;
+if len then
+str = IlIlllllllIllIlIllIlIlllIIIIIlIIlll:sub(index, index + len - 1);
+index = index + len;
+else
+len = get_size_t();
+if len == 0 then return; end
+str = IlIlllllllIllIlIllIlIlllIIIIIlIIlll:sub(index, index + len - 1);
+index = index + len;
+end
+return str;
+end
+end
+local function decode_chunk()
+local chunk;
+local instructions = {};
+local constants    = {};
+local prototypes   = {};
+local debug = {
+lines = {};
+};
+chunk = {
+instructions = instructions;
+constants    = constants;
+prototypes   = prototypes;
+debug = debug;
+};
+local num;
+chunk.name       = get_string();
+chunk.first_line = get_int();
+chunk.last_line  = get_int();
+if chunk.name then chunk.name = chunk.name:sub(1, -2); end
+chunk.upvalues  = get_int8();
+chunk.arguments = get_int8();
+chunk.varg      = get_int8();
+chunk.stack     = get_int8();
+do
+num = get_int();
+for i = 1, num do
+local instruction = {
+};
+local llIIlIlIIllllIlIlIlIIlIlIlIllllIllI   = get_int32();
+local opcode = get_bits(llIIlIlIIllllIlIlIlIIlIlIlIllllIllI, 1, 6);
+local type   = IlIIlIlIIIlllIlIlIIlIlIlIlIIIlIIIII[opcode + 1];
+instruction.opcode = opcode;
+instruction.type   = type;
+instruction.A = get_bits(llIIlIlIIllllIlIlIlIIlIlIlIllllIllI, 7, 14);
+if type == "ABC" then
+instruction.B = get_bits(llIIlIlIIllllIlIlIlIIlIlIlIllllIllI, 24, 32);
+instruction.C = get_bits(llIIlIlIIllllIlIlIlIIlIlIlIllllIllI, 15, 23);
+elseif type == "ABx" then
+instruction.Bx = get_bits(llIIlIlIIllllIlIlIlIIlIlIlIllllIllI, 15, 32);
+elseif type == "AsBx" then
+instruction.sBx = get_bits(llIIlIlIIllllIlIlIlIIlIlIlIllllIllI, 15, 32) - 131071;
+end
+instructions[i] = instruction;
+end
+end
+do
+num = get_int();
+for i = 1, num do
+local constant = {
+};
+local type = get_int8();
+constant.type = type;
+if type == 1 then
+constant.llIIlIlIIllllIlIlIlIIlIlIlIllllIllI = (get_int8() ~= 0);
+elseif type == 3 then
+constant.llIIlIlIIllllIlIlIlIIlIlIlIllllIllI = get_float64();
+elseif type == 4 then
+constant.llIIlIlIIllllIlIlIlIIlIlIlIllllIllI = get_string():sub(1, -2);
+end
+constants[i-1] = constant;
+end
+end
+do
+num = get_int();
+for i = 1, num do
+prototypes[i-1] = decode_chunk();
+end
+end
+do
+local llIIlIlIIllllIlIlIlIIlIlIlIllllIllI = debug.lines
+num = get_int();
+for i = 1, num do
+llIIlIlIIllllIlIlIlIIlIlIlIllllIllI[i] = get_int32();
+end
+num = get_int();
+for i = 1, num do
+get_string():sub(1, -2);
+get_int32();
+get_int32();
+end
+num = get_int();
+for i = 1, num do
+get_string();
+end
+end
+return chunk;
+end
+do
+assert(get_string(4) == "\27Lua", "S1MPLYS3C7RED: Bytecode expected");
+assert(get_int8() == 0x51, "S1MPLYS3C7RED: Only lua5.1 is supported");
+get_int8();
+big_endian = (get_int8() == 0);
+int_size = get_int8();
+size_t   = get_int8();
+if int_size == 4 then
+get_int = get_int32;
+elseif int_size == 8 then
+get_int = get_int64;
+else
+error("");
+end
+if size_t == 4 then
+get_size_t = get_int32;
+elseif size_t == 8 then
+get_size_t = get_int64;
+else
+error("");
+end
+assert(get_string(3) == "\4\8\0","S1MPLYS3C7RED: Unsupported platform");
+end
+return decode_chunk();
+end
+local function handle_return(...)
+local c = select("#", ...)
+local t = {...}
+return c, t
+end
+local function IIllIllIlIIIIIIIIllIlIIIIlllIIIIIIl(IIllIlIIIlIlllllIIIlIIlllllIllllIlI, upvalues)
+local instructions = IIllIlIIIlIlllllIIIlIIlllllIllllIlI.instructions;
+local constants    = IIllIlIIIlIlllllIIIlIIlllllIllllIlI.constants;
+local prototypes   = IIllIlIIIlIlllllIIIlIIlllllIllllIlI.prototypes;
 
-,nil,nil;(function() _msec=(function(l,h,o)local Y=h[(-0x29+(11600/0x91))];local Q=o[l[(-0x1c+641)]][l[(45384/0x3d)]];local D=(23+-0x13)/(0x1fa/((0x2d8c/22)-0x115))local K=(-116+((0x25e8+-28)/82))-(-66+0x43)local v=o[l[(0x15ab/43)]][l[(-0x45+361)]];local N=(0x36/((352-0xd1)-89))+(124-0x7a)local r=o[l[(1141-0x25e)]][l[(0x25fda/182)]]local b=(0x7c-122)-(223/(-125+(0x2d8-380)))local B=(((321-(395-0xd5))-94)-0x2a)local p=((((63-0x51)+0x1)+0x7d)-0x69)local e=(-22+(2275/((36400/0x64)/0x4)))local d=(((0x4742+(-18-0x34))/0x9a)+-0x73)local L=(0x82+(-0x7495/(940/(84+(-10560/0x84)))))local a=(54/(0x42+((-0x391/11)+0x23)))local x=((212-((-0x6d+375)+-0x7f))-69)local t=(0xbc/(0xb0-((359+(-3825/0x2d))-145)))local U=(712/(-0x19+((0x421-563)-0x123)))local c=(-44+(0x6d+(-0x23fb/((-0x6e+483)-0xde))))local w=(0x35-(8085/((30586/0x52)-208)))local _=(0x46-((0x192-(0x1930/26))+-0x58))local m=((537+((-36783/0xb7)+80))/0xd0)local n=(((-27+(0x2392+-69))/0x6a)-0x53)local P=(94+((-76-(0x35+-50))+-0xd))local H=((((2963848/0x94)/0x1f)-386)/130)local M=((0x125-(((680+-0x65)-0x12c)+-0x4e))-0x5a)local F=((((-66+0x2c5)+-0x76)+-0x6f)/207)local V=l[(0x27d1a/123)];local G=o[l[(153+-0x18)]][l[((-0x6a+603)+-77)]];local J=o[(function(l)return type(l):sub(1,1)..'\101\116'end)('mKhlMFBm')..'\109\101'..('\116\97'or'fObMkkll')..l[(-97+0x278)]];local g=o[l[(0x464-589)]][l[(2019-0x42a)]];local u=(-0x64+102)-(41-((17145/0x87)-0x58))local S=(((-0x11d+119)+0x27)+129)-(0x46/35)local y=o[l[(0x50a0/160)]][l[(0x591e/61)]];local O=function(l,o)return l..o end local s=(0x85-129)*(((0x107fa/42)-0x355)/0xbd)local A=o[l[(175526/0x9d)]];local k=(68+-0x42)*(0x6980/((646+-0x6b)-0x148))local j=(0x86e-1134)*((0x3a2c/(-0x12+237))+-66)local T=(0x60+((-118+0x4c)-2))local C=(452/(-44+(0xd3fe/201)))*(0x56-84)local i=o[l[(271152/0xfc)]]or o[l[(1116-0x245)]][l[(271152/0xfc)]];local f=(((-86-(123+-0x75))+0x375c)/55)local l=o[l[(1276+-0x33)]];local g=(function(k)local f,h=1,0x10 local o={j={},v={}}local O=-b local l=h+K while true do o[k:sub(l,(function()l=f+l return l-K end)())]=(function()O=O+b return O end)()if O==(s-b)then O=""h=u break end end local O=#k while l<O+K do o.v[h]=k:sub(l,(function()l=f+l return l-K end)())h=h+b if h%D==u then h=S g(o.j,(y((o[o.v[S]]*s)+o[o.v[b]])))end end return r(o.j)end)("..:::MoonSec::..bBfFlLkKoOpPhHmMpBOKKMkmLHlhFhfpBOboMomkHLhlPFpMOBobkMomLoFhfPBpLLkKlpFKFBblbMMFMpHLHBpKFmPlBMbpMOmoBmfKffbOlKoOKBkblMofOfoMKMkhLoLBKPPMpLOloFhfhHPBPoOFoMLFKbLFoHHLPKpkOLHfmfHkPppkOooBkmKbLllOFKfPHlOkkLKhkFLflBplomoBKBLmllFofbblpBokKLklOppKpLKFKlKbkFlLfmBMFBOhoKKkkLpfplOMokMbbkmmHHhhbPBkMpbBHhHohoflFKffBBbbLkFMFpfBFFpBoOKokKphpmpKohKlkHLLbFhmPHphpHOfKOkOLKlmFLflBFffFfmbHBPmpHOhOLKpkOLPlKFKfLBkbFMlmBMkbHpmOmohOmkpLploFHfkBOBLMFmfHBmFpMOMoHOhoHLplpFofKBkbOMlmFFhhBPBOMObKHkHLPLhFOfoBobkbBmlHFhfHBpboMKMkHLHlPlFfOfpbKMkmoHlhmPfpBObKMkmLHlHFPfHBObpMKMoHLhlPLpfOHobkMLmkHFhfPBhbOMpmKmBhLHlpFOfoFKbkBlmFmfhFPbpMOmpHKhoPLpmOFofKBkbLbFmfmBhbHMpbOHohKPKpLOLoFKKkBKbFMfmBmbhMhmpHhhoHKpkOLoLKFkFLBlkfMFmbHMhmhHphpPoPlOkpPKlkFLFlBLFBMbMMHmmHPhmhppoOKokOoklLllflFfobMMMmHmohPPppOPopLKkkkLlllFffpBbBBmmHHhMPPPLOOooKKkkLLllFlffBlbbMBHmHMPhpPOhoOolkKLklLLlfFBfbFMbmBhmhophPPopKOkpLKloFLfLBFffMBmbHBPmpMOhOLKpkOLolKFKfLBLbFMlmBMbPMpmOmohKhkpLmloLKfkBLbLMFmFHBhFpMPmoHKhkhLplpFofHBkFLMlmFHFhBPHOMOLKHkhhhlpFOfoBobkMLmlHHhfPBpbOFoKkHLhlPopOLKOobLPLKBPFoBPoBOPKMkmLHOoppoHKpKllKLfFkFHBoBllLoHkMLmlHopOpomKfLmLbFOfkfobhbBmMmFmKLoFHfhBPlHkBLBlFfpMkboMKmKHLlbLkFmfHBhLPkklpLBfhfoBoMboHKfkBLbokOFOBLMkbLhlMFBBpbPBHooKFkfLBpKOboPKfLomMHphOPommMKMfHOPMLklBFbBMLhLmLOlbKmhbpoOKokPoHFhBPbOkoFoFbMmHHhhPhhbfOooKKkkhLllFFflBBbMMmmHHhhPPPbOOOpKKkkLKllFoffBBbbmMHmhHPhpPOhoOKpkKkolLFlflBfboMbHMhmHHphOPoPKOkOLKlPFLllBFbfMfmbHbPmpMOhpPKpkOLOlKFKfLBHbFMfmBHbPMpmOHohKhkpKOloFKfkBLblMFmFHBmbpMOmoHKhkPLpLBFolKBkbLMlmFHfhBPFOMpmKHkhLPlpFOfoBPbkBLmlHFhfPBpboMookHLmopFpfPBobKMkmLHlhFhKpBObKMKbLHlHFPfpopboMKmkHkhlPFpfOBobkMLmlHlKfPBpbOMhmPHkhLPlmpMFmmHLoMLLFHfhBPLpkLlOLbfPfKBKllofhHkHlMFmfHkpKpkmLfFmFbBObkbomhmBhMhFOPFoBHbhMPFBFmFhbpbPbKMpHhhLPkOOFbKpBoMhmPHpBLfKbpMKMBhlhMPFPpOLOBmmbBmhHPhpbKbOblmPfOkoLFlfFBoKKbkPLfklHfPppOOoHHHMHoPHpLOmokOobommHHhhbPBkMpbBHhHoOhPOOhFMBBbbmMMbfbPhpPOpOfKokKLkkLFlfFBfbBMbHMHFPHPmOPopKPkoLOlkFLflBFbfMBmbhMhbpHOmoPohkOLoloFkfmBlbFMfbBHbPMpMOHoHKPkhLOkoFKfkBkblMlmfHohbhMOmoHKHkPLPlOlbfKBkbLMlmFHfhBPbpbomOHkhLPlpFOfoBKBBMLblHFhfPBpboMKmkmLhkPFpfOBobKMkmLHohFHfpBObKMkmLHlhlLfpFMboMKmkHLmbPFpFOBokkMkfLmFhfPBpfLMomoHkHKPhpFOfoBKOLMlmFHlhFObpMOmoHKhkPpplpLofKBkflMlbfHBhbPMpmOHohKPkpKOloLKfKFLbFMfMBHBLMPmpHOmoPKpkOkolKlkfLFlblMBmbHMHmPHPhOPMpKPkoLKlklLflfFbfKbmMHmhHPhpPOpoOKoKKLolLFlfFBfbbMMmMoHhmPPppOOooKKkkLLLlFLffBBbMMmmHHhhPMpphOooKKkkLLlmFFfLBBbbkbHmhHPhphOpoOKokKLklLFlfFLhbBMbHMpmhLphOPophBHHhlpKpFOFKhkkfBmkhMPmpHmhmhmhhmhkPPmpfOBlbFMfloFBfhBFLBOFKPkpLOPkOhoKoKkOkkLkPBhopMOmoHMbHphoPmpLoOKPKKKhmMHfhBPbmbMBmLHLhbhbOmOLKhKlkOLKHKhhPBpboMhlHkhmPboHomopKHLPLKFbhLPfpBObHmPLPOLhFPfpBOlPkFlKFmFBMlbLMOmOHlHlPfpOObooKHLlmPHkhLPlMFMKMLmFbMlmFHfhBPbpMOMbBKpkhbplOFofPHhMPfOMOOkhKKLPkfFHFOPpphOloFKfPBPhpbpKofKmkmBpHmhoPKpkbLmLHhHlhlMlFhBmbHMhFbLbFoflBHMPhpmhHFPmPbOOOFmpMHmhHPhpPOpoMbhkMHKbLFlfFBkBolKfLhfBFOBHBBMOMLmpHooBlFomFFBbMMmmfblBfmBmboMLhLHLhOpHOOoPKlkBkFlKFhfpbKpkoOKokKOPPFOKoPKFkMkllhFFfPfbbmmkKMkoLKlkKpOpKoKbkLLFoFhmpHOhoPhmHohHppOmKOokklkbLlFHfoffBBMBmHMfkKloFKfkkKkOkFlmFpfFBbBfMfmbpMPPPHOOpMffbLMlmFFBBBBhbbbKmfHmOmPOpfOkopkfbkmlHFhfbFbLMMmpHkPMphpmomKhLpkpLllkflBObkKbolkmLHlhoHOFoKkMkpFmHLhlPFpfOBobkMLmfHlbfPBpbOlLfhBPbpFopFOfoBKbLMlmFHkhMPBPMOmoHKBPfobOmbHLPfHLhFpHKFKHKHkKFOFHFPfOfpOLPFKkkBLbFMpLKmKLkMlkHHhoPKpkHhmLmbhKLLlLfMBmbHLflhlkFmBHpPOmoLKlkFhkPbpFOFobkkLplfKmhlpoOKokPhhOhKoLOOoOKPkfLMlBFOOpPfOooKKkpphpPfOmOkolkoLHlPphhPppOOooPMHPhfpLpBOBKpkllBlHFhFbMPMPMPmhkPLOlLFlfFLFkHLhOFHHPHphOPMBHmHhpLpPOkOkKoKLkLfFFKfFfbBbBFobkOLolKKPOPoFkMkolkHlhfpmOHohhlHHOplhFhfkBLbllKLBlkfFBKMpOhKhkPLppoooOFKKKmLOLLffFbfKblbbHfHhhmpklffoBKbkFolhFlFlBfbFbFmFHMPoLhFpfOBokHLMLKFOFKfBBkMFmKHKhPhbpbOhKmKPkPOpHhhlPFpfHlmhHbhKPppBoMBmBfMomKHkBhfFBLMHMlmbhbPBpfPlBmbpMOmofPFLfLbbOKofKBkbOHOMOpoBmPbBmOHohKMOBlbbmMHKhlhlMFFFBHbhMPFblPfOflbPhLomKFkfLBoMOMoFKPLHlHlkfmbHBbOpOfKlkFLfofOloFLmkfkbfMFObhBhMomOmbklLFlfFBfbbMMmMHBhhMhlpOOooKPHhphoOkOKOFokkoLBlfLlhlppOOoohKHfPkPHOoOlLoKLLobmHkPhpPOpHOHHHPOPPPOOOBokKlfbmphmPHphHmMOmLHlPhpOpOkKofkPLMhbHOPmpHOhHfHPHkPHohphopofKKkLBBHPPMpmOHmPhPHkPphBOhOokLkOkKLLHBhbpMOmoHKhkPlpooBoFFBkbLMlfhlbFKBMbpMFHbHBhHhbOmOpKFbpMLmlHFbMBfbOMHFfKBLhlPFpKHKHKMkplBmLhFPfpBHFmPhMhkPOKhoHoBKBLhLhFpFBBoBbbLMFhPkhlHFhfPkMKhLHfhllfoBhblbbMLHHhlPhPBbhflbpMOmofmfKfBbMmkMfHkhLPFlfFPBhbPMpFbFHFPMpbpbKmkHKhMPlpbOhOBKMMMMfHOhoPKmhMkMKmKPfPkPlpfMmBFMhmPHpBhBHBFbfMHppmPLolBFbBMLPKkkblFFFBhpoOKokKLklLFlfLBkbhFbLmHHhhPBbBfbPMbHoHBPOOPFFfBBbBBMkHHhhPPhpOOooKKkkokllFFffBfbbMBHmHFBKpPOpoOKHkKLKlLFLfFBkBfMbHMhmhfphOhopKHKOLKlkFLKPBlbFMBMfHKPmpHOhOFKpkOLokKKKfLBlbFMfmBmhPMPlPmohKPkpPblOFofkBLblMKMFHBhbpMMLomKHkPkhLBFofKBkFFMlmFHfHFHoOMoMKHkMLPlpFOloBKbkMkmlHlhfPmpbpMKmkHLHlPFPfOflbKBkmLHlhlPfpfObphkmKHlhFPfPBObOMKbhHLHkPFpfOFobKfLmlHFhlPBpbOMpmKHohLmhpFploBKbkFlmkHfhBPbpMOmoHKhoPLpoOFolKBoblMFmfMBhbHMpbFHomKPkpLOkoFKlkBOKFMlmBHbhMHmpHPhomfpkpKolKFkLLBLPfMBmbHMhmPHphOPoppOkokKlKLLflBFbBMFhMHmhHPHhPOpoOookKoklLFlfLBfbbMMMmHHHhPhKpOPooKKkkkLlllFffHBbBMmmHHhHPPpPOOPLKKokLLllFlffBfbbBLHmHMPhpPOhoOKPkKLklLLlfFBfbFMbmBhmMLphpHopKOkhLKKkFLflBFbfMBmbHBPmPBOhoHKpoOLolKFofLBkbFbhmBMbPMpmOMohKHkppbloLKfkBLbkMFmlHBmPpMPboHKhkmLpoKFofKBkbLMlmFHfhBPFOMoMKHKmLPlpFOfoBMbkMLmlMFhfPBpboMKmkHpflPlbfOBobKMkfoHlhlPfpBOboFKMLHlhFPkHBObOMKMoHHhlPFpfOMobkMLmLMpofPBPbOMPmKHkhLHlpFOfofKbkblmKLfhfHbpMOmPHKMkPLplOFofKBkbLbFmFbBhbHMpbOHohKPKpLOLoFpMkBkfFMfmBMbhMmmpHOhoHKpkOLokKFklLBlHfMFmbHMhmHHphPPoPFOkpLKlkFLllBFfBMlbMHmhHPhpPppoOookKKklKFlfFBfBbMMMmHfBhPPppOOoooKkkKLllFFffBBbMMmmHHhhPPphOOohKKkkLLllKlffBfbbbMbbhHhBpPOmoOpfkKkoPOFlfpBfbfMbHMhmPHmoOPoMKOkMLKloFLfpkmbfMkmbbMPmpmOhohKpkHkOlKFkfLLlbFMFmBHlHbpmOHohPhkpLplokKoOBLboMFfkHBHbpMplMkKhkPLpoFFofoBkbKMlmKmFhBPbOMhoKHkHLPLhlBfoBKbkMomlHFhfHBhOoMKmkHLhlPKffOfpbKMkmKHlHbPfpBObKMkmLHlhFPfhBObpMKMoHLhlPlpfOlobkMLmkHFhfPBPbOMOmKmFhLHlpFOfofKbkblmlOfhFPbpMOmOHKhKPLHkOFofKBkblMFmfHBhbhMpbOHohKPkpLOloFpPkBKbFMfmBHbhMPmpMphoHKpkOLolKFkfLBKLfMFmbHMhmPHphOPoPpOkpLKlkFLflBFbBMLoMHBfHPhpPOpoMookKkklKflfFLFBbMMmmHFHhPPPpOppoMKkkLLllkFffBBbBMfmHHhhPPppOOhbKKKoLLllFLffBmbbmMHmhHPhpPOpoOKpkKLolLlkfFBfbfMbmfhmPHphPPopKOkOLKlKFLFBBFffMBmbHbPmpmOhOKKpoOLolKFKfLBLbFflmBHbPMpmOHohKPkpLploLKfkBLblMFmfHBMOpMPmoHKhkPLplOFoloBkfLMlmFHfhBPbOMhFKHohLPlpFOfoBKbkbomlbFhfPBpboMhokHkmlPlhFBBobKMkmHHlhFPfhBHBKMkmLHlhFPFPBObmLfmkHLhlBOpfOfobKbLmLBlHfPBpbOLmmKHKhLPoPlOfoBKbmMlmFmfhfHBfMOmoHKHlPLplOFOlHkkbLbFmFbBhbPMpbOHohKPKpLOLoFppkBkfFMfmfbbhbompHOhoPKpkOLoLKFkLLBlffMFbbHMhmHHphhPopKOkpLKlkFLllBFfBMBPMHbhHPhpPPpoOOokoBklKFlfFBffbMbbmHbmhPPppOOoooKkkkLllLFflBBbMMmMHHhHPPmFOOpoKKkkLkllFlffFfbbbMHmhHPHpPOPoOpHkKKklLFlflBfbfMbMFhmHHphOPoPKOkOLKokFLllBFbfMfmbHbPmHmOhpPKpkOLOlKFKfLLlbFBfmBHbhbpmOmohOMkpLOloFKfKBLbkMFmfHBhbpMOmoHKhkPLplPFofPBkbLMlmFkbhBPBOMpmOMkhkblpFHfolBbkbKLoHFhOPBHloMKmkHLhoKFpfmBobmMkmKHlhObHpBOLKMmMLHlHFPfPBObhbomkHLhlFlpfOfobKFkMlHFhfPpobOMOmKmohHPlpoOfokKbLMlmLHpfBPBbMOmhHKMoPLplOFofKkkbLBFmfMBhBHMpmOHmhKPOpLOloFOfkBLblLfmfFbhFFmpmPhoPKpmOLOHKFkfLBlbfMBmBFMhMFHphPPohKOkoLKpkFLolBlLBMfmMHmhmBhpPMpoHFokOLklLFloFBfkbMlBmHMhhPPpPbOooHKkplLllFFffBBOMMMFHHhhPPppOOooKmkkLmllFlffBKkOmMHmhHFKpPOPoOKpkKLpLkFlfFBfKhMbmbhmhMPlOPopKOKbLKlkFLllLlbfMBmbhMPmPhOhOBOPkOLolKbHfLBLbFMfmBHlHbpmOHohLfkpLplolOfmBLblMFMbHBhbpMPbMfKhkhLplhFofKBkfLMlmFHFhBPBOMhkKHKmLPlpFhfoflbkMLmlHFhfPBpBoMoBkHLmlPlhfOBobOMkmoHlhFPfhBObKMKbLHlmFPFKBOfoMKmkHKhlPLpfOHoboMLmlHFmfPBhbOfpmKHkhLPlplOfofKbkBlmLHfhBPbPMOmOHKMMPLhlOFofKfkbLbFmlmBhfPMpmOHOhKPKpLhOoFOfkBLblbfmBmbhbLmpMOhoPKpKOLoLKFpfLBkbfMBmbmMhmhHpMpPohKOkoLKLkFLFlBKbBMfmMHmhHhhpPppoPPokKLklLFlFFBffbMMmmHHhhPPppOOooKKkkKLllKFffBBbMMhFHHhHPPhpPPooKhkkLOllLHfffFKlmMmLhHMbpPOpoOKopFLklpFlfpBfbFMbmLmMPHPBOPLMKOkOLKlkFLfoflbfMBmbplPmpmOhOHofkOLHlKLOfLBlbFBfFMHbhLpmpBohPPkpKOloFKfhBLbpMFBFHBmbpMOmOFKhKBLpkmFolKBkbLMpmFHohBMBOMomKHkhkblpFPfoBObkBPmlHFhKPBLKoMKMkHpllPFmFpBobKMkOhHlhlPfpLpBKMkmLHfBFPfPBObofMmkHphlPFpfOLoboBPblHlffPBMbOMomKMkhLPlppOfoLKbOBlmFHfhBPBbMOmpHKhoPLPlOFofKkkboHFmFFBhBHMpmOHmhKPPpLOloFOfkBLblkfmfBbhfHmpHOhoPKphOLokKFklLBLbfMBmBfMhboHphMPoPOOkoLKpkFLKlBFbBMfmMHmhmfhpPHpohOokKLklLFloFBffbMbbmHmhhPPppmOoOfKkkPLlLLFffBBkMMMFHHhhPPhpOOooKmkkLOllkLffBBbbmMmlhHPmpPOhoOookKLklpFlLpBfbKMbMBhmPHPfOPoHKOkoLKkkFLflBObfMKmbbKPmPMOhoPofkOKBlKFkfLBlbFMfmKHbhKpmOMohOPkpLOlmFKfhBLBOMFbfHBhbPLOmOFKhpLLpkOFofKBhbLMpmFMPhBHbOMomolkhkBlplbfoBKbkMLmHHFhKPBpboMKmkHLhLfFpFfBoboMkMKHlhFPOpBPbKMkmLHLmFPfpfBbolbmkHLhlPFpfOBoKkMkblHFHfPfbKfMomKHkkmPlplOfoFKbkFLMFHfhBPPFMOmOHKHoPHplOFofKOkblMFmlHLHbPMpmOHohKHlpLOpHmKfkBLbBPfmBmbhMhmpHHHOPKpkOLkbKFkFLBlllbBmbHMhHOHphpPoPOOmoLKlkFKplBFbBMbmBpmhHPhpPppoOookoKklLFlfFBflbMMmmHmmhPPpppOohLKkkLLlLLFffBBfMMBLHHhhPPPhOOooKpkkoPllFFfffFbbmMmfhHPMpPOpoOOokKLklOFlfKBfFOMbMBhmPHPfOPpFKOkoLKlkFLflBKbfMKmbHBPmhHOhoPKmkOLhlKlPfLFlbFMfmLHbhFpmHKohOPkpLOlhFKfpBLFKMFbfHBhbPlOmOBKhppLplOFofKBHbLMlmFHfhBPbOMomoLkhLHlpFOfoBKbkMLmHHFhLPBpboMKmkHLhLbFpFfBoboMkMKHhhFPfpBOoKMkmLHkhKhfpBOboMKmkBKhlPOhFOBobkMKFlmFHfPBpbOMhMoHkhLPlPoOFofKbKBLkFHfhBPBoMOmoHKHoPMplOlofKlkblMFmlHBhbPMPmOHOhKmmpLpkoFKfklLbLofmBHbhMPmpHOhOPKpOOLokKFofLBlbFbBmbmMhbfHpHPPopKOooLKKkFLflBLbBMbmMMmhHHhphkpoPKokKLkkLFllFBfhbMBmmHHhhHPppPOoPOKkkLLllFFFfBBBMMMbHHmhPPppOpooKokkLPllLFffBBbBmMHMhHmbpPOpoOKokoLklKFlfFBfbBMbHMhmPHphOPohKOkhLKlkFLflfkbFMfmbmMMMpHpBoPKmkOoKlKLkkkBlboMfmkHbmBpmhFHpKPkMLOLPFofKBLBkMFmkmfhbpMOmpbKHkhLpLPlbfKBPbLBKmFHfhBHbBLomoFkhLMlpkPfoBKbkMLmOHFhlPBpfoMObkHLhLBFpfhBobKMkbLHlhFPopBOkKMpkLHLmFPfpfBboBbmkHLhlPFpfOBokkMkklHFmfPFpbOMomHHkhPPlPoOfpBKbLMLlFHFfBPlkMOboHKhkPPplOOofKpkbkMFmfHfFbPbbmOHMhKPkpLOlohKfkkLbFMfmBHbhMPMBHOHBPKpKOLopHhkfLBlbFBBMbmMhmHHphHhOpKOkoLKkklLFlBlffKbmMHmhmOhpPOpopOMfKLkLLFlLFBfbbMBmmHHhhhPpppOoPMKkKKLllFFLfBlbMMmmHHhhPPppOpooKpkkLKllLFffBBbBmMHMhHHlpPphoOKokOLkloFlfFBffBMbHMHbPHpmOPOKKOooLKlkFKflBLbfMHmbmMPmpHOmoPKhkOoplKFkfLBlblMfmfHbhBpmPHohKPkPLOlOFKlpBLblMFmfHfhbPBOmoHKhkPLplOFofKBkbLMkmFHkhBPbOMompmkHLhlpFOLPBKbPMLmoHFhfPBpbHLKmKFLhlhFpfOBoBOMkmLHPhFPLpBObKMomLHlhlffpfbbofMmkmKhlPFpPOBOOkMLmlHFhfPBpBbMoMbHkhKPlhFOfoBKKLMLLFHlBBPfpMOmoHmhkPhplhMofOBkblMlLfHfFbPFLmOMohKPkpHOlopKfkoLbFMfmBHBkMPmMHOhoPKpkOLolKmkfLKlbfMBmbHMhmPmfhOhFpKOKoLKphhLflBFblFbMMmmhHHhpPHPOOKokKLooLllFFBFfBKMmmHHhHOPppOOoOOmokLLLlFFLfBBbMMbmHHhhPhppOpoopMkkkKllFFfLBBFbmMHmhHPhpPOpopKokpLklKFllFBfbBMBHMhMPHHoOPppKOkoLolkFkflLobfMBmbhMPMpHOmoPKpkOLolKFkfLBlbFMfmFHbhFpmOHohKPPmLplOFKlkFKblMomfHLhbHOOmOMMbkPkBlOlmfKBkbLMlBMHfhkPbpkomKMkhkBkPFOfHBKLpMkmLHFhfPBplpbKmkHLhOMFPfpBoBOMmmLHOhFmbpBObKMobLMlhlBfpBhboMKmkMLhlPFpoOBokkMkPlHLhfPBpbMMomHHkHBPlhFOfoBKkLMLlFHLOBPfpMOmoHHhkPPplPOofOBkblMlLfHfbbPMhmOmphKPkpHOlOmKfkBLbFMfmBHBBMPMfHOhOPKPoOLolKokfKMlbfMBmBMMhmPmbhOPPpKOkoLOlkFLflKFbfLbmbpmhMPhpPOpmOKohKLKbLFkfFBfbBLMmMFHhMoPphOOooKKhkLLplFLofBFbMMmmmlhhPMppOPoooOkkLLlhFFkbBBbbmMHmhHPhPbOpOBKokoLklPOHfFBfbBfHmbhMPHpmOPomopkoLKlkKffLBlbfMLMBhMPmpHOhoPKPkOLoPoFkfLBlblMfmBHbhBpMOHohKPkpLOloFKfkBLblMFmfHohbpMOmoHomkPLplOFOfKBkbLMlmFHfhBPbOMomKHkhLPlpFOfoBKbkMLmlHFhfPBpboMKmKbLhlPFpfOBobKMkmLHlhFPfpBObKMkmLHlhFHfpBOboMKmkHLhlPFpFOBobkMkblHFhfPMpbmMomKHkFLBKblMmmHhoLMlmFHfhBPbpMOmoMFhkPLplpLMkKBkflMlbfHBhbPbhLHHohpPkpKOloFKfKFLoFMFfBHbHMPmpHOhmmLpkOpolKFkfLflbFFBmbHlhmPHphOPppKOkoLKlPFLflBFbBMbmMHmhHPBpPOpoOKoOKLklLFlfoBfbbMMmmmHhhPPppOHPoKKpkLLklFFFfBBkFHmmHHhhHFppOpooKokkLOLLFFffBBBomMHMhHhfmOOpoOKoKMLklkFlflBfbLbBHMhmPHhlOPoPKOkmKhlkFkflfFbfMfmbhMPmPBpHoPKpkOkolKFKfLBoBlMfmBHbHKpmOmohKPHBLOlhFKfoBLbKMFmfFohbPlOmObKhkHLplMKkfKBpbLbhmFHFhBPLOMOfomkhLPlpLBfoBobkMLlPHFhkPBpfoMoBkHLhPfFpfmBobpMkmKHlhOHKpBOlKMoKLHlHFPfMBObhbomkHLhlhhpfOfobkMPmlHlbfPBpbOMomKHkHMPlpKOfofKbLMlmFHLmBPbmMOmpHKhkPLplblofKBkbLbFmfHBhbPMpmOHohKHfpLOloFfkkPLbFMfmklKBkMFHFmFpfHbMMomOpFkKLBlbfMKbKkkpLflHhHPhpKOkoLhBpoOKokFlfMbmMHmhfFFMfkbObLMLHmhopLPBpbOlLMLMLMLbMPhLpOOooKhfHlPKplOmKBKhkbkKlfFmmPpMOOooKKpOhlpHpBOLlBbkmMHmhHbMBbbkMLMbOHLpLkFlfFBfkKLOLBFFFBBPBbmHmBHBhLPpOpOkKoKLkLmlHmPmpHOhmbmpHbhppoOpopLkklLLlhlbfbBBbokhoLkpLOloKmoKofkOFoLoFkfmfFBBkHoKkPLplOKPOkofKBLOlklkblBMboMhpOkhLPlpFOfoBKMkFlmomlhfPBpbmBmFHHhoPlOHopohkhLpFoloFfflbfMKmllmkllhFPfpkOKlLoLMFpFkfkpkOLobkMLmPlOHOoKMPHbFmKHkhLMPbobkhlHohoPppBOmobKooBmHHKhkPLMobfMKHlhoLFlKfHBhbPFHLBFOFOBKbobomomlPHLpFMfmBHLfklLhFmBPBhBobPmOmLPmLLlbfMBmolLHLllmMOPHpKOkoLmlhlPPPFpFpKBhMHmhHPBbffBkMPhhHmHkhkPkKlooKokpLBklHlPppOOoHmmLHKPMPkpfofKFklhpHHhhPPppOOooKKkkFLLfFFffBBLLLMlLFMBHbMMMHhmhHkhopkOPoohkbLMbHMhmMMbHbmmMKHkpLKlkFLoFLpLmMKmbhMPmMfBfMbmoHHhPOHFkfLBlBLMpmBHbPMhfOHohKPkpoploFKfkBkblMLmfHKBPpMOmoHoBkPLPlOFOfKBpBkMlmFHfhkPbpbomoBKHLPlpFOKHBKbKMLMkHPhfPBpbppKmkHLhkPKPfOBobKMkmLHKhFPohfObKMkmPflhFhfpBOboMPMKHLhlPFMKOBoBkMKbLLFhfPBpBmMomKHkHKfkpFOFoBKMLMlmFHlhBPbpMpmoHohkPkplpLofKBkFlMLLfHBhbPMpmOHohoPkpoOloLKfoBLbFMfMBHbHMPMbHOmoPKpkOkolKlkfkBlbfMBmbHMHmPHhhOPopKOkoLKlkFLflBFbfBbmbBmhHPhpPOMpOKoKKLolKLlfFkfbBFMmbFHhHHfmpOOMoKObkLLllFFfLHBbblmmmlhhPHppOMpOKKkPLLOkFFfFBBbbmMmfHmPhpPOpHPKokoLklLkKfFBKbBMlHMhmPHphPpopKMkoLKlkFLflfLbfMBmKhMhHpHOhoPOpkOLolmFkfhBlblMfMFHbPMPKOHOOKPkpLOloFKfkBhblMhmfHFhbhMOmoHoFkPkBlOLlfKFkbLMlmpHfhoPbpOomOHkhLPLBFOfMBKBBMLblHFhfPOpbOkKmobLhlPFpfOffbKMPmLHlhFPfpBObopkmkFlhFPfpBOboMKmmHLhMPFpFOBOfkMLmLLFhFMBpbOMomKHkhLPhpFOFoBKBLMkbFHfhfFbpbBmoHKhkhKplOFoPKBkMlMFmfHFhbPMpMfHoHbPkPFOlpFKfkBLOFMFKBHBBMPbpHOhohbpkOmoloLkfKBlbfMfKbHbLmPHmhOhppKOkoMKlKfLflBFbFMbmMHMkHPHlPOpOOKOoKLklLMlflofbbMMmmHHhhPhlpOploKKokLKllFFffPBbbOmmHMhhHPppOOOfKKKbLLlPFFlfBBbbMOHmHKPhPhOpOPKokKkBlLlhfFBfbBMbHMhmhLphpkopKpkokOlkFLfhBFbpMBmbhMHbpHOhOlKpKoLolKFklLBlbFMPmBHOPMPhOHphKPkpkflolbfkBpblBFmfHBhOpMpKoHomkPKplOFoFbBkbmMlmKHfHFPbOMOoKHKPLPlpFOloBKbkMMmlHHhfPfpbpBKmkHkolPLBfOBobKMkmLHlhHPfpHOboBkmKHlhFPFlBOBfMKmoHLmlPFpfOPobKOLmLlFhlPBpbObfmKmbhLhLpFploBKbkplmlOfhBPbpMOmoHKhmPLpMOFoFKBKflMFmFLBhfkMpmOHomKPkpLOhoFKpkBLOFMFlBHbhbFmpfPhoPopkOLolKKKFLBlbfMKbbHMHmPmhHBPopMOkOlKlkFLfkBKfBMBkMHMlHPhPPOPpOKokKMklkblfFBfbbMMmmHmlhPhlpOOpoKOkkLLllPFffOBbBPmmMHhhPPPfOOObKKKbLLklFFffBObbMKHmmkPhhPOpoOoBkKLmlLlKfFBfbBMbmohmPMphOhopKMHBLKlkFLFKBFbFMBmfhMhfPmOhoPKpKhLoloFkfOfLbFMfmBHbPMpMOHohmhkpLOloFofkBLblMkmfHBhbpMpkoHKhkPPkLLFofKBkkokofLfObmBFBBHBhLhLpPOFkOfhBKbkMLlKFPfFfFLboMKmkHLhlPFpBOLKoPMkmLHlhFPfpBbbPMOmkBlhFPfpKPoBkPlPLHhpPFpfOBMFmFHbPkppOfKkbOMomKHkMLPKpFOfoBmFHlPbLMfhBPbpbPMbHKhOPLpLOFofKBkbpmFmFbBhbmMpmpHohHBBpLOKoFKKkBLBFMfMBHBbbhmpHOhoPhpkOkolKKKFLBlbfMfkbHMHmPmhHBPoppOkokKlkFLflBoMBMBBMHmMHPhPPOpohOokKoklLLlfFBfbfBKfmHHMhPPHpOOooKoophLllKFffoBbMMmmmMhhPPpMOOoPKKkkLLllFFffBKbbmMHmhHPhPHOpoOKMkKLOlLFlfFBkbBMbmlhmHPphOhopKOOPLKlMFLfoBFbfMBMfHlPmPKOhOBKpkOLokKFkfLBmbFMhmBHfPMhmOHohokkpLOloFMfkBLblMFmMHBhopMOmoHKhkPLpLKFofMBkbLMlmFHfhBPPOMOhKHkmLPkpFOfoffbkbbmlHohfPBpboMoOkHLmlPFhfOBobKMkMbHlhmPfplObOMkmLHLKFPFLBObhMKmkHLhlPHpfOFobKBLmlHFhfPBmbObBmKmbhLPlpFOfopKbkflmFMfhFPbpMOmPHKhMPLpoOFokpbkbLlFmFPBhbhMpMPmbhKPPpLOLoFKfkBLblbfmffbhMhmpHHhoPKHoOLooKFklLBlbfMBmKmMhmPHphpPopKOkoLKlkFLflBlFBMbmMHMbmlhpPOpoblmKHhHfPhPkpkolKlfmMBHhhPPpmPMOMpHPBOLPlFFffBkbkPlMLkFBfHBHOHoHKKkkLLPlOloPoFKFhMmkhHPhpPmpMomPHbhppmpFOBhfbBMbHMhplboFFfhPpOKoLKlkFLkhookMLflmFmfKBBmmMpmOHHpopopoOOMlBBMfmBHbbLBKbPMbhBHFhPPPpPkOKHkHLMlkLOhlpMOmoHmbHlhHPHFhFBBkbLMlfpFKFLbFblbbMFHLPmpMBOfPBKbkMLfHlkbFmBploMKmkHhFphpKomBhbmMkmLHlFBBKbfbfmlmBHBKhllfpBObolmLLlKfMfkBfMfmFHlkfLkFhfPBplhkblolofkBKBKMKMFLbkllmFHfhkoKOLHlHlFMkhLplOFofPlhMPPppOfKMKMkFlPllfhMOBlMHMBmLPHLPFMfmBHLokplHFpFlbKBfMkMHHoHloBlmfMBmbHlFLblmbHBHBpMOmpmfhKPFpMplOfFpMHmhHPHhbopoOookKPklLFlflFfbbMMMmHmLhPPppOppoKKkkLLlLbFffBBbBBmmHHhhPPpmOOooKKKoLLllFlffBHbbmMHmmHPhpPOPoOKOkKkblLlkfFBfblMbmHhmPHphOPopKOkOLKlOFLfkBFffMBmbHbPmpmOhOhKpoOLolKFKfLBLbFbLmBHbPMpmOmohKHkpLOloFKfkBLblMFmfHBhfpMpfoHKhkPLpKfFofoBkfLBkmFHKhBPlOMOOKHKmhMlplbfofKbkMLmlHFMmPBpLoMoLkHLmlPlblpBobhMkbmHlhlPfpBOboFKMLHlhFPLFBObOMKbkMKhlPopfOLobKKLmLMPbfPfBbOMpmKHkhLPlHMOfokKbkklmFMfhfBfPMOmHHKmMPLpLOFofKBklkbFmfHBhFlMpmpHoHOPmpLOOoFKmkBLbFMlmLkbhbbmpHmhohBpkpKolKFkOLBlFfMBmbHMhmPHphmPopmOkoKKloFLflBFLBMBFMHMmHPmpPOpoOHokKpklkflfLBfbbMbLmHmfhPhBpOPooKKkkHLllpFffkBbBMmmHHHLPPpmOOopKKokLLllFhffBpbbMlHmhHPhpPpfoOobkKLMlLLlfFBfbOMbmKhmPmphpHopKOKBLKlMFLflBFboMBmbHKPmHlOhohKpKfLolPlKfLBlbFBOmBHBPMPfpmohKPkpofloFofkfKbMMFmpHBhOpMOmoHomKkLplHFoFlBkbLMlmOFPhBPbOMOPKHkHLPlhFOfhfobkMLmlmbhfPfpboMmMkHLhlPFPfOBobKbOmLHlhFPkpkObKMkmHbPhOhpBoKPhbBmkHLhlMpbKbLHFHlHbhFpLomKMFkMOmPmbhLPlpFMBmbmFhlPBPfOmobkMkpllmkhkPLplMpmKmLpmPlOMOMoBKmkmfhlbfhfOBOOoooKfkBLbOLoMoOoBkbOmHphoPKpkMlbhKKkfLBlbKHKMKpkBOMmlhOPopKHHmkmBhohfpfpFOfKFKbMbmbhpPOpobKmKHmHkhkKfFHfbbMMmLbLbbHBBMkMPMOPOpHpHOFKPfLBoMMmmHHbHFbBmboHKmKhPhFpbFKffBBbbLkFMFpfBFFpLoOKokKpfPlOKolKmLBLhlblKffBmlMOBKOkoLKOkpBoLohkKkFLFLKHFpHOhoPHmHfhPpppLOKKoFBLOloMMfkMMmfHlpHHMPFhbohOBKBbMMFmfHBbKBlBfHbmlHlhkpHppoholkBMOmFHfhBfbbfmMmOHoPKLfFOfoBKoblflPBMfHMomlMLPLkHLhlPFhkoBobKMkmoHlhFPfPFMHKMkmLHLbFPfpBOboMKmkHLhlPFpfOBobkMLmlHFHfPBpbOMomKmohLPlplOfohKbLMlmlMfhBPbPMOmMHKhkPLhpOFofKfkbLoFmfmBhBPMpmHmOhKPkpLOHoFKFkBLbPbfmBHbhMhmpHOhoPOmLOLoLKFkKLBlbfMFbBoMhmhHpHhPopKOkoKPFkFLFlBFkBMbmMHMmMfhpPppoOhokKLklkLlfFBfBbMbomHHhhPhhpOOooOKkKfLllFFflBBbMMMbHHhmPPphOOOpKKkkLOlllfffBBbbmMHmhHPmpPOmoOKpkKkolLFlfkBfbmMbHMhmHHphOPoHKOkPLKLLFLllBFbfMlmbHfPmPPOhpPKpkOLPlKFOfLBhbFMflbHbhBpmOMohKmkpKOLlFKfoBLbkMFmPHBmbpMOmoMKhkHLpLpFofKBkbLMkmFHLhBPbOMomKHkhLhlpFOfoBpbkMOmlHFhfPBPHoMKMkHohpmFpfmBobHMkmoHlhOBPpBOBKMopLHlHFPfhBObhbomkHLhlhMpfOfoboBkklHFHfPfKbOMomKMkmOPlplOfofKbkBlmlMfhBPbHMOMKHKhkPLplOFofKfkbLfFmfMBhBHMpmOHphKhFpLOloFOfkBLblBfmBMbhbpmpMOhoPKpoOLokKFKbLBkbfMBmbMMhmHHpHBPopKOkoLKLkFLFlBFfBMfmMHmhHhhpPppopFokpLklLFlFFBfkbMbBmHmmHFPpppOoOOKkkLLllLKBfBBfMMmMHHhhPPppHhooKokkLKllFlfffFbomMHMhHPHpPOpoOKppkLklKFlfFBfbBMbHMBBPHpHOPohKOkOLKLoFHflBlbfMfmbhMPmpMHPoPKhkOLplKFkfLBllkMfmfHbhBpmOmohoHKfLOlOFKfKBLblMFmlBbhbPBOmOBKhkPLplOKPfKBKbLMkmFHFhBPbBbomKHkhLhlpFOfo");local r=(0x6b-90)local h=95 local o=b;local l={}l={[(-0x17+24)]=function()local M,b,O,l=v(g,o,o+N);o=o+C;h=(h+(r*C))%f;return(((l+h-(r)+k*(C*D))%k)*((D*j)^D))+(((O+h-(r*D)+k*(D^N))%f)*(k*f))+(((b+h-(r*N)+j)%f)*k)+((M+h-(r*C)+j)%f);end,[(77+-0x4b)]=function(l,l,l)local l=v(g,o,o);o=o+K;h=(h+(r))%f;return((l+h-(r)+j)%k);end,[(0x53-80)]=function()local b,l=v(g,o,o+D);h=(h+(r*D))%f;o=o+D;return(((l+h-(r)+k*(D*C))%k)*f)+((b+h-(r*D)+f*(D^N))%k);end,[((1267-0x287)/155)]=function(o,l,h)if h then local l=(o/D^(l-b))%D^((h-K)-(l-b)+K);return l-l%b;else local l=D^(l-K);return(o%(l+l)>=l)and b or S;end;end,[(101+-0x60)]=function()local o=l[(198/0xc6)]();local O=l[(60-0x3b)]();local M=b;local h=(l[((0x2155/161)+-49)](O,K,s+C)*(D^(s*D)))+o;local o=l[(47+-0x2b)](O,21,31);local l=((-b)^l[(0x19+-21)](O,32));if(o==S)then if(h==u)then return l*S;else o=K;M=u;end;elseif(o==(k*(D^N))-K)then return(h==S)and(l*(K/u))or(l*(S/u));end;return Q(l,o-((f*(C))-b))*(M+(h/(D^T)));end,[(-0x6c+114)]=function(O,M,M)local M;if(not O)then O=l[(100+-0x63)]();if(O==S)then return'';end;end;M=G(g,o,o+O-b);o=o+O;local l=''for o=K,#M do l=V(l,y((v(G(M,o,o))+h)%f))h=(h+r)%k end return l;end}local function G(...)return{...},A('#',...)end local function j()local B={};local O={};local o={};local M={B,O,nil,o};local h={}local H=(0x4f-69)local k={[(0x69+-104)]=(function(o)return not(#o==l[(-0x36+56)]())end),[(0x0/238)]=(function(o)return l[(0x68+-99)]()end),[((7568/0x56)-0x54)]=(function(o)return l[(-0x66+108)]()end),[(0x15+-18)]=(function(o)local b=l[(0x2e8/(0x163-231))]()local l=''local o=1 for h=1,#b do o=(o+H)%f l=V(l,y((v(b:sub(h,h))+o)%k))end return l end)};M[3]=l[(-0x17+25)]();for l=K,l[(0x64+-99)]()do O[l-K]=j();end;local o=l[(0x46-(0xd3-142))]()for o=1,o do local l=l[(41+-0x27)]();local b;local l=k[l%(104-0x3c)];h[o]=l and l({});end;for f=1,l[(0x5f-94)]()do local o=l[(0x55-83)]();if(l[(-0x27+43)](o,b,K)==u)then local k=l[(0x22-30)](o,D,N);local O=l[(0x44/17)](o,C,D+C);local o={l[(0x81-126)](),l[(38+-0x23)](),nil,nil};local M={[(0x0/216)]=function()o[L]=l[(126-0x7b)]();o[U]=l[(0x81/43)]();end,[(97-(0xe9-137))]=function()o[a]=l[(75+-0x4a)]();end,[(59+-0x39)]=function()o[a]=l[(106/0x6a)]()-(D^s)end,[(74-0x47)]=function()o[d]=l[(-32+0x21)]()-(D^s)o[x]=l[(0x66+-99)]();end};M[k]();if(l[(-0x34+56)](O,K,b)==K)then o[n]=h[o[P]]end if(l[((0x15600/96)/0xe4)](O,D,D)==b)then o[L]=h[o[p]]end if(l[(404/0x65)](O,N,N)==K)then o[t]=h[o[x]]end B[f]=o;end end;return M;end;local function u(l,S,r)local o=l[D];local f=l[N];local h=l[b];return(function(...)local g=A('#',...)-K;local l=b l*=-1 local C=l;local s=o;local N=G local o=b;local y={};local v={};local k=h;local f=f;local h={};local j={...};for l=0,g do if(l>=f)then y[l-f]=j[l+K];else h[l]=j[l+b];end;end;local l=g-f+b local l;local f;while true do l=k[o];f=l[(-0x7f+128)];O=(487461)while(0x78+-62)>=f do O-= O O=(12470476)while f<=(155-0x7f)do O-= O O=(680064)while f<=(-120+0x85)do O-= O O=(5133768)while(1524/0xfe)>=f do O-= O O=(1703934)while(127-(-0x3b+184))>=f do O-= O O=(3992211)while f<=(44+-0x2c)do O-= O if h[l[H]]then o=o+b;else o=l[d];end;break;end while 1047==(O)/((0xf55+-112))do O=(337383)while f>((0x285c/42)/0xf6)do O-= O local O;h[l[H]]=r[l[a]];o=o+b;l=k[o];h[l[P]]=h[l[B]][l[U]];o=o+b;l=k[o];h[l[M]]=h[l[p]][l[t]];o=o+b;l=k[o];h[l[H]]=h[l[p]][l[U]];o=o+b;l=k[o];h[l[H]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[F]]=h[l[a]][l[U]];o=o+b;l=k[o];h[l[P]]=l[d];o=o+b;l=k[o];O=l[n]h[O](i(h,O+K,l[d]))o=o+b;l=k[o];h[l[m]]=r[l[L]];o=o+b;l=k[o];h[l[M]]=r[l[a]];o=o+b;l=k[o];h[l[H]]=h[l[d]][l[U]];o=o+b;l=k[o];h[l[F]]=h[l[B]][l[c]];o=o+b;l=k[o];h[l[F]]=h[l[e]][l[t]];o=o+b;l=k[o];h[l[P]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[P]]=h[l[B]][l[c]];o=o+b;l=k[o];h[l[H]]=l[p];o=o+b;l=k[o];O=l[M]h[O](i(h,O+K,l[L]))break end while 171==(O)/((-122+0x82f))do h[l[m]][h[l[a]]]=h[l[t]];break end;break;end break;end while 1086==(O)/((1679+-0x6e))do O=(514804)while f<=(115-0x6f)do O-= O O=(11004396)while f>(-0x3d+64)do O-= O h[l[P]]=h[l[d]][l[w]];break end while(O)/((3187+-0x78))==3588 do local l=l[F]h[l]=h[l](h[l+K])break end;break;end while 2876==(O)/((426-0xf7))do O=(6496854)while f>(31-0x1a)do O-= O if(h[l[F]]<h[l[_]])then o=l[a];else o=o+K;end;break end while 1898==(O)/((0x1af1-3474))do local t;local f;local e;local O;h[l[M]]=r[l[B]];o=o+b;l=k[o];h[l[P]]=h[l[a]][l[x]];o=o+b;l=k[o];O=l[P];e=h[l[a]];h[O+1]=e;h[O]=e[l[w]];o=o+b;l=k[o];h[l[F]]=h[l[L]];o=o+b;l=k[o];h[l[n]]=h[l[L]];o=o+b;l=k[o];O=l[H]h[O]=h[O](i(h,O+b,l[p]))o=o+b;l=k[o];O=l[P];e=h[l[L]];h[O+1]=e;h[O]=e[l[c]];o=o+b;l=k[o];O=l[M]h[O]=h[O](h[O+K])o=o+b;l=k[o];f={h,l};f[K][f[D][M]]=f[b][f[D][_]]+f[K][f[D][L]];o=o+b;l=k[o];h[l[n]]=h[l[p]]%l[U];o=o+b;l=k[o];O=l[n]h[O]=h[O](h[O+K])o=o+b;l=k[o];e=l[p];t=h[e]for l=e+1,l[x]do t=t..h[l];end;h[l[F]]=t;o=o+b;l=k[o];f={h,l};f[K][f[D][F]]=f[b][f[D][U]]+f[K][f[D][p]];o=o+b;l=k[o];h[l[m]]=h[l[d]]%l[U];break end;break;end break;end break;end while 1636==(O)/((-114+0xcb4))do O=(5552057)while(0x3d+-52)>=f do O-= O O=(2141713)while f<=(0x60-89)do O-= O local b=l[L];local o=h[b]for l=b+1,l[_]do o=o..h[l];end;h[l[H]]=o;break;end while 1897==(O)/((0x93d-1236))do O=(122980)while(-39+0x2f)<f do O-= O h[l[H]][l[L]]=h[l[w]];break end while 130==(O)/((219472/0xe8))do h[l[n]]=r[l[a]];break end;break;end break;end while(O)/(((0x2511e+-64)/74))==2707 do O=(245626)while(1804/0xa4)>=f do O-= O O=(2089136)while(0x44-58)<f do O-= O r[l[p]]=h[l[n]];break end while(O)/((0x1481-2673))==811 do local O;local f;local F,c;local B;local O;h[l[n]]=r[l[p]];o=o+b;l=k[o];O=l[m];B=h[l[L]];h[O+1]=B;h[O]=B[l[_]];o=o+b;l=k[o];h[l[M]]=l[a];o=o+b;l=k[o];O=l[M]h[O]=h[O](i(h,O+b,l[d]))o=o+b;l=k[o];h[l[m]]=h[l[e]][l[_]];o=o+b;l=k[o];h[l[M]]=r[l[L]];o=o+b;l=k[o];h[l[P]]=h[l[d]][l[U]];o=o+b;l=k[o];h[l[H]]=h[l[a]][l[x]];o=o+b;l=k[o];h[l[H]]=h[l[d]][l[t]];o=o+b;l=k[o];h[l[P]]=h[l[p]][h[l[_]]];o=o+b;l=k[o];h[l[P]]=h[l[p]][l[w]];o=o+b;l=k[o];O=l[M];B=h[l[L]];h[O+1]=B;h[O]=B[l[x]];o=o+b;l=k[o];O=l[m]F,c=N(h[O](h[O+K]))C=c+O-b f=0;for l=O,C do f=f+b;h[l]=F[f];end;o=o+b;l=k[o];O=l[n]F={h[O](i(h,O+1,C))};f=0;for l=O,l[x]do f=f+b;h[l]=F[f];end o=o+b;l=k[o];o=l[d];break end;break;end while 1286==(O)/((43930/0xe6))do O=(117012)while(-84+0x60)<f do O-= O if(h[l[H]]~=h[l[U]])then o=o+K;else o=l[e];end;break end while 42==(O)/((0x1ff7e/(-104+0x97)))do local O;local f;local H,m;local e;local O;h[l[M]]=h[l[B]][l[w]];o=o+b;l=k[o];O=l[F];e=h[l[p]];h[O+1]=e;h[O]=e[l[_]];o=o+b;l=k[o];O=l[P]H,m=N(h[O](h[O+K]))C=m+O-b f=0;for l=O,C do f=f+b;h[l]=H[f];end;o=o+b;l=k[o];O=l[F]H={h[O](i(h,O+1,C))};f=0;for l=O,l[U]do f=f+b;h[l]=H[f];end o=o+b;l=k[o];o=l[d];break end;break;end break;end break;end break;end while 1288==(O)/((-46+(590+-0x10)))do O=(2683136)while(0xfa0/200)>=f do O-= O O=(1540860)while(135-0x77)>=f do O-= O O=(300348)while f<=(0x51-67)do O-= O local l=l[M]h[l]=h[l]()break;end while(O)/((0x6b+-26))==3708 do O=(11292561)while(2760/0xb8)<f do O-= O o=l[p];break end while 2807==(O)/((-0x74+4139))do local l=l[F]local O,o=N(h[l](h[l+K]))C=o+l-b local o=0;for l=l,C do o=o+b;h[l]=O[o];end;break end;break;end break;end while(O)/((-69+0x38f))==1830 do O=(12883640)while f<=(-0x5e+112)do O-= O O=(11389840)while f>(-113+0x82)do O-= O h[l[m]]=S[l[B]];o=o+b;l=k[o];h[l[n]]=#h[l[p]];o=o+b;l=k[o];S[l[p]]=h[l[M]];o=o+b;l=k[o];h[l[F]]=S[l[a]];o=o+b;l=k[o];h[l[P]]=#h[l[B]];o=o+b;l=k[o];S[l[L]]=h[l[M]];o=o+b;l=k[o];do return end;break end while 3010==(O)/((503272/0x85))do o=l[e];break end;break;end while(O)/((3623+-0x3f))==3619 do O=(9675967)while f>(0x98/8)do O-= O local O;local f;local t,D;local U;local O;h[l[P]]=r[l[B]];o=o+b;l=k[o];O=l[F];U=h[l[a]];h[O+1]=U;h[O]=U[l[w]];o=o+b;l=k[o];h[l[P]]=l[B];o=o+b;l=k[o];O=l[n]h[O]=h[O](i(h,O+b,l[p]))o=o+b;l=k[o];h[l[H]]=r[l[B]];o=o+b;l=k[o];h[l[M]]=h[l[L]][l[x]];o=o+b;l=k[o];h[l[P]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[M]]=h[l[p]][l[w]];o=o+b;l=k[o];h[l[M]]=h[l[L]][h[l[w]]];o=o+b;l=k[o];h[l[n]]=h[l[L]][l[w]];o=o+b;l=k[o];h[l[m]]=h[l[d]][l[_]];o=o+b;l=k[o];h[l[M]]=h[l[e]][l[x]];o=o+b;l=k[o];h[l[H]]=h[l[B]][l[_]];o=o+b;l=k[o];h[l[n]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[M]]=h[l[e]][l[_]];o=o+b;l=k[o];h[l[M]]=h[l[B]][l[c]];o=o+b;l=k[o];O=l[P];U=h[l[L]];h[O+1]=U;h[O]=U[l[w]];o=o+b;l=k[o];O=l[M]t,D=N(h[O](h[O+K]))C=D+O-b f=0;for l=O,C do f=f+b;h[l]=t[f];end;o=o+b;l=k[o];O=l[F]t={h[O](i(h,O+1,C))};f=0;for l=O,l[c]do f=f+b;h[l]=t[f];end o=o+b;l=k[o];o=l[a];break end while 2933==(O)/((0x5fd85/119))do if(h[l[n]]<h[l[t]])then o=l[B];else o=o+K;end;break end;break;end break;end break;end while(O)/((91876/0x67))==3008 do O=(47456)while(5688/(524-0x11f))>=f do O-= O O=(3432602)while f<=(0x7e+-104)do O-= O O=(8325050)while(0x80-107)<f do O-= O h[l[n]]=#h[l[p]];break end while 3275==(O)/((2659+-0x75))do local o=l[P]h[o](i(h,o+K,l[L]))break end;break;end while 1021==(O)/((6811-0xd79))do O=(2820893)while f>(0x83-108)do O-= O local O;local f;local a,c;local e;local O;h[l[M]]=r[l[L]];o=o+b;l=k[o];O=l[m];e=h[l[p]];h[O+1]=e;h[O]=e[l[U]];o=o+b;l=k[o];h[l[H]]=l[d];o=o+b;l=k[o];O=l[M]h[O]=h[O](i(h,O+b,l[p]))o=o+b;l=k[o];h[l[H]]=h[l[L]][l[U]];o=o+b;l=k[o];h[l[M]]=r[l[B]];o=o+b;l=k[o];h[l[M]]=h[l[d]][l[w]];o=o+b;l=k[o];h[l[n]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[M]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[F]]=h[l[L]][h[l[w]]];o=o+b;l=k[o];O=l[H];e=h[l[p]];h[O+1]=e;h[O]=e[l[x]];o=o+b;l=k[o];O=l[m]a,c=N(h[O](h[O+K]))C=c+O-b f=0;for l=O,C do f=f+b;h[l]=a[f];end;o=o+b;l=k[o];O=l[P]a={h[O](i(h,O+1,C))};f=0;for l=O,l[x]do f=f+b;h[l]=a[f];end o=o+b;l=k[o];o=l[d];break end while(O)/((4485-0x8e4))==1277 do local f;local O;r[l[d]]=h[l[F]];o=o+b;l=k[o];h[l[n]]=r[l[d]];o=o+b;l=k[o];h[l[n]]=r[l[d]];o=o+b;l=k[o];O=l[m];f=h[l[e]];h[O+1]=f;h[O]=f[l[_]];o=o+b;l=k[o];h[l[n]]=l[L];o=o+b;l=k[o];O=l[M]h[O]=h[O](i(h,O+b,l[B]))o=o+b;l=k[o];h[l[m]]=r[l[e]];o=o+b;l=k[o];h[l[m]]=h[l[p]][l[t]];o=o+b;l=k[o];h[l[m]]=h[l[e]][l[t]];o=o+b;l=k[o];h[l[m]]=h[l[a]][l[w]];break end;break;end break;end while 16==(O)/((5954-(552780/0xb9)))do O=(3053388)while f<=(0x57-61)do O-= O O=(1825206)while(0x5a-65)<f do O-= O h[l[F]]=(l[L]~=0);break end while 2843==(O)/((0x19644/162))do local l=l[H]h[l](h[l+K])break end;break;end while 1443==(O)/((35972/0x11))do O=(9459588)while(0x53+-56)<f do O-= O h[l[H]]=S[l[d]];break end while(O)/((-0x79+3779))==2586 do local l={h,l};l[K][l[D][M]]=l[b][l[D][x]]+l[K][l[D][a]];break end;break;end break;end break;end break;end break;end while(O)/((0x18df-3240))==3988 do O=(3144960)while f<=(-17+0x3c)do O-= O O=(1070620)while f<=(4795/0x89)do O-= O O=(4672734)while f<=(0x4f+-48)do O-= O O=(6305650)while f<=(88-(0xbf-132))do O-= O local f;local O;h[l[P]]();o=o+b;l=k[o];h[l[F]]=r[l[e]];o=o+b;l=k[o];h[l[H]]=l[B];o=o+b;l=k[o];h[l[P]]=l[p];o=o+b;l=k[o];h[l[M]]=l[d];o=o+b;l=k[o];h[l[F]]=r[l[d]];o=o+b;l=k[o];O=l[H];f=h[l[B]];h[O+1]=f;h[O]=f[l[t]];o=o+b;l=k[o];h[l[m]]=l[d];o=o+b;l=k[o];O=l[F]h[O]=h[O](i(h,O+b,l[L]))o=o+b;l=k[o];h[l[m]]=h[l[p]][l[_]];o=o+b;l=k[o];h[l[F]]=h[l[d]][l[_]];o=o+b;l=k[o];h[l[n]]=h[l[e]][l[w]];o=o+b;l=k[o];O=l[m];f=h[l[e]];h[O+1]=f;h[O]=f[l[c]];o=o+b;l=k[o];h[l[P]]=h[l[d]];o=o+b;l=k[o];h[l[M]]=h[l[e]];o=o+b;l=k[o];h[l[n]]=h[l[L]];o=o+b;l=k[o];O=l[M]h[O](i(h,O+K,l[B]))break;end while 2725==(O)/((0x930+-38))do O=(2274300)while f>(0x6e+-80)do O-= O local f;local O;h[l[P]]=(l[d]~=0);o=o+b;l=k[o];h[l[m]]=r[l[e]];o=o+b;l=k[o];O=l[P];f=h[l[a]];h[O+1]=f;h[O]=f[l[w]];o=o+b;l=k[o];h[l[m]]=l[B];o=o+b;l=k[o];O=l[F]h[O]=h[O](i(h,O+b,l[p]))o=o+b;l=k[o];h[l[H]]=h[l[L]][l[x]];o=o+b;l=k[o];h[l[n]]=h[l[B]][l[t]];o=o+b;l=k[o];h[l[m]]=h[l[e]][l[x]];o=o+b;l=k[o];O=l[P];f=h[l[a]];h[O+1]=f;h[O]=f[l[U]];o=o+b;l=k[o];h[l[n]]=h[l[d]];o=o+b;l=k[o];h[l[P]]=h[l[e]];o=o+b;l=k[o];O=l[m]h[O](i(h,O+K,l[a]))o=o+b;l=k[o];h[l[H]]=r[l[d]];o=o+b;l=k[o];h[l[m]]();o=o+b;l=k[o];h[l[m]]=r[l[d]];o=o+b;l=k[o];h[l[n]]=r[l[B]];o=o+b;l=k[o];h[l[m]]=h[l[e]][l[U]];o=o+b;l=k[o];h[l[m]]=h[l[a]][l[c]];o=o+b;l=k[o];h[l[H]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[H]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[H]]=r[l[L]];o=o+b;l=k[o];O=l[P];f=h[l[B]];h[O+1]=f;h[O]=f[l[w]];o=o+b;l=k[o];h[l[n]]=l[e];o=o+b;l=k[o];O=l[n]h[O]=h[O](i(h,O+b,l[d]))o=o+b;l=k[o];h[l[H]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[m]]=h[l[d]][l[t]];o=o+b;l=k[o];h[l[m]]=h[l[a]][l[t]];o=o+b;l=k[o];h[l[H]]=l[B];o=o+b;l=k[o];O=l[M]h[O](i(h,O+K,l[B]))o=o+b;l=k[o];h[l[n]]=r[l[a]];o=o+b;l=k[o];h[l[m]]=r[l[d]];o=o+b;l=k[o];h[l[F]]=h[l[L]][l[w]];o=o+b;l=k[o];h[l[n]]=h[l[p]][l[_]];o=o+b;l=k[o];h[l[n]]=h[l[L]][l[x]];o=o+b;l=k[o];h[l[F]]=h[l[L]][l[U]];o=o+b;l=k[o];h[l[m]]=r[l[d]];o=o+b;l=k[o];O=l[m];f=h[l[d]];h[O+1]=f;h[O]=f[l[c]];o=o+b;l=k[o];h[l[n]]=l[L];o=o+b;l=k[o];O=l[P]h[O]=h[O](i(h,O+b,l[L]))o=o+b;l=k[o];h[l[H]]=h[l[p]][l[t]];o=o+b;l=k[o];h[l[H]]=h[l[L]][l[U]];o=o+b;l=k[o];h[l[F]]=h[l[a]][l[x]];o=o+b;l=k[o];h[l[H]]=l[L];o=o+b;l=k[o];O=l[M]h[O](i(h,O+K,l[a]))o=o+b;l=k[o];h[l[m]]=r[l[e]];o=o+b;l=k[o];h[l[m]]=h[l[a]][l[U]];o=o+b;l=k[o];if h[l[F]]then o=o+b;else o=l[e];end;break end while(O)/((1375-0x2e9))==3610 do local f;local O;O=l[n];f=h[l[L]];h[O+1]=f;h[O]=f[l[_]];o=o+b;l=k[o];h[l[F]]=l[e];o=o+b;l=k[o];O=l[M]h[O]=h[O](i(h,O+b,l[p]))o=o+b;l=k[o];h[l[m]]=r[l[e]];o=o+b;l=k[o];h[l[m]]=h[l[L]][l[t]];o=o+b;l=k[o];h[l[m]]=h[l[L]][l[w]];o=o+b;l=k[o];h[l[n]]=h[l[B]][l[t]];o=o+b;l=k[o];h[l[M]]=h[l[p]][h[l[_]]];o=o+b;l=k[o];h[l[M]]=h[l[e]][l[x]];o=o+b;l=k[o];h[l[m]]=h[l[d]][l[_]];o=o+b;l=k[o];h[l[F]]=h[l[B]][l[c]];o=o+b;l=k[o];h[l[n]][l[a]]=l[w];break end;break;end break;end while 2559==(O)/((3735-0x775))do O=(2196460)while f<=(2145/0x41)do O-= O O=(6137648)while f>(7808/(0xb700/192))do O-= O if h[l[M]]then o=o+b;else o=l[p];end;break end while 3784==(O)/((1728+(-0xbd+83)))do local l=l[H]local O,o=N(h[l](h[l+K]))C=o+l-b local o=0;for l=l,C do o=o+b;h[l]=O[o];end;break end;break;end while 812==(O)/((5431-0xaa6))do O=(1242455)while f>(0x45+-35)do O-= O r[l[e]]=h[l[M]];break end while(O)/((0x79d-994))==1301 do local o=l[P];local b=h[l[p]];h[o+1]=b;h[o]=b[l[c]];break end;break;end break;end break;end while 995==(O)/((0x4b1+-125))do O=(5982946)while f<=(0xddd/91)do O-= O O=(5174829)while f<=(9287/0xfb)do O-= O O=(9489365)while(94+-0x3a)<f do O-= O if(h[l[n]]~=h[l[t]])then o=o+K;else o=l[d];end;break end while 2815==(O)/((-47+0xd5a))do local f;local O;O=l[H];f=h[l[L]];h[O+1]=f;h[O]=f[l[c]];o=o+b;l=k[o];h[l[m]]=l[B];o=o+b;l=k[o];O=l[n]h[O]=h[O](i(h,O+b,l[e]))o=o+b;l=k[o];h[l[H]]=r[l[e]];o=o+b;l=k[o];h[l[F]]=h[l[p]][l[w]];o=o+b;l=k[o];h[l[M]]=h[l[e]][l[w]];o=o+b;l=k[o];h[l[H]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[F]]=h[l[L]][h[l[c]]];o=o+b;l=k[o];h[l[P]]=h[l[d]][l[c]];o=o+b;l=k[o];h[l[H]][l[e]]=l[x];break end;break;end while 3443==(O)/((3051-0x60c))do O=(5209419)while f>(0x57e/37)do O-= O h[l[H]]=(l[p]~=0);o=o+K;break end while 1681==(O)/((0x1854-3129))do if(h[l[F]]~=l[c])then o=o+K;else o=l[a];end;break end;break;end break;end while 2362==(O)/((17731/0x7))do O=(841302)while((0x13a-168)-105)>=f do O-= O O=(1918679)while f>(0x80+(-54-0x22))do O-= O local f;local O;O=l[P];f=h[l[p]];h[O+1]=f;h[O]=f[l[w]];o=o+b;l=k[o];h[l[M]]=l[B];o=o+b;l=k[o];O=l[H]h[O]=h[O](i(h,O+b,l[a]))o=o+b;l=k[o];h[l[n]]=r[l[p]];o=o+b;l=k[o];h[l[n]]=h[l[a]][l[c]];o=o+b;l=k[o];h[l[n]]=h[l[d]][l[c]];o=o+b;l=k[o];h[l[H]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[P]]=h[l[p]][h[l[U]]];o=o+b;l=k[o];h[l[n]]=h[l[d]][l[w]];o=o+b;l=k[o];h[l[H]]=h[l[e]][l[t]];o=o+b;l=k[o];h[l[M]]=h[l[B]][l[c]];o=o+b;l=k[o];h[l[n]]=h[l[e]][l[x]];o=o+b;l=k[o];h[l[P]]=h[l[a]][l[w]];o=o+b;l=k[o];if(h[l[n]]==l[t])then o=o+K;else o=l[e];end;break end while 469==(O)/((4167+-0x4c))do local f;local O;h[l[F]]=r[l[e]];o=o+b;l=k[o];h[l[H]]=h[l[d]][l[U]];o=o+b;l=k[o];h[l[m]]=h[l[B]][l[c]];o=o+b;l=k[o];h[l[F]]=h[l[e]][l[w]];o=o+b;l=k[o];h[l[P]]=h[l[B]][l[_]];o=o+b;l=k[o];h[l[H]]=r[l[e]];o=o+b;l=k[o];O=l[n];f=h[l[e]];h[O+1]=f;h[O]=f[l[t]];o=o+b;l=k[o];h[l[F]]=l[p];o=o+b;l=k[o];O=l[H]h[O]=h[O](i(h,O+b,l[B]))o=o+b;l=k[o];h[l[P]]=h[l[B]][l[_]];o=o+b;l=k[o];h[l[M]]=h[l[a]][l[x]];o=o+b;l=k[o];h[l[m]]=h[l[a]][l[_]];o=o+b;l=k[o];h[l[H]]=l[e];o=o+b;l=k[o];O=l[F]h[O](i(h,O+K,l[a]))o=o+b;l=k[o];h[l[F]]=r[l[L]];o=o+b;l=k[o];h[l[P]]=r[l[e]];o=o+b;l=k[o];h[l[P]]=h[l[L]][l[x]];o=o+b;l=k[o];h[l[H]]=h[l[a]][l[w]];o=o+b;l=k[o];h[l[P]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[F]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[P]]=r[l[a]];o=o+b;l=k[o];O=l[M];f=h[l[L]];h[O+1]=f;h[O]=f[l[U]];o=o+b;l=k[o];h[l[M]]=l[d];o=o+b;l=k[o];O=l[H]h[O]=h[O](i(h,O+b,l[B]))o=o+b;l=k[o];h[l[n]]=h[l[p]][l[x]];o=o+b;l=k[o];h[l[n]]=h[l[a]][l[c]];o=o+b;l=k[o];h[l[P]]=h[l[a]][l[t]];o=o+b;l=k[o];h[l[H]]=l[p];o=o+b;l=k[o];O=l[m]h[O](i(h,O+K,l[p]))o=o+b;l=k[o];h[l[H]]=r[l[a]];o=o+b;l=k[o];h[l[P]]=h[l[B]][l[c]];o=o+b;l=k[o];if h[l[m]]then o=o+b;else o=l[L];end;break end;break;end while 1214==(O)/((0x15a80/128))do O=(6897950)while(0xb8-142)<f do O-= O h[l[m]]=u(s[l[a]],nil,r);break end while(O)/(((15076576/0x20)/0xb5))==2650 do local l={h,l};l[K][l[D][M]]=l[b][l[D][U]]+l[K][l[D][a]];break end;break;end break;end break;end break;end while 840==(O)/((0x1d99-3833))do O=(2662524)while(175+-0x7d)>=f do O-= O O=(272816)while(0x59+-43)>=f do O-= O O=(4168549)while f<=(4620/0x69)do O-= O if(h[l[M]]==l[_])then o=o+K;else o=l[a];end;break;end while 1259==(O)/((-31+0xd0e))do O=(151500)while f>(157-0x70)do O-= O local M=s[l[e]];local f;local b={};f=J({},{__index=function(o,l)local l=b[l];return l[1][l[2]];end,__newindex=function(h,l,o)local l=b[l]l[1][l[2]]=o;end;});for O=1,l[c]do o=o+K;local l=k[o];if l[(25-0x18)]==80 then b[O-1]={h,l[L]};else b[O-1]={S,l[B]};end;v[#v+1]=b;end;h[l[m]]=u(M,f,r);break end while 202==(O)/((1574-0x338))do h[l[M]]=S[l[L]];break end;break;end break;end while(O)/((0x3d868/109))==118 do O=(10840962)while f<=(0xd5-165)do O-= O O=(4369590)while f>(-0x41+112)do O-= O local O=l[F];local f=l[c];local k=O+2 local O={h[O](h[O+1],h[k])};for l=1,f do h[k+l]=O[l];end;local O=O[1]if O then h[k]=O o=l[L];else o=o+b;end;break end while(O)/((-53+(233248/0x4a)))==1410 do local b=l[m];local k=h[b+2];local O=h[b]+k;h[b]=O;if(k>0)then if(O<=h[b+1])then o=l[d];h[b+3]=O;end elseif(O>=h[b+1])then o=l[B];h[b+3]=O;end break end;break;end while 3958==(O)/((0xaf1+-62))do O=(5681700)while f>(0x2927/215)do O-= O do return h[l[M]]end break end while(O)/((0x1556-2787))==2124 do local l=l[H]h[l]=h[l]()break end;break;end break;end break;end while(O)/((214398/0x56))==1068 do O=(296960)while(234-0xb4)>=f do O-= O O=(928710)while f<=(96+-0x2c)do O-= O O=(6640575)while f>(0x1cb0/144)do O-= O local o=l[F]h[o]=h[o](i(h,o+b,l[e]))break end while(O)/((0x15fd-2854))==2393 do h[l[F]]=h[l[a]];break end;break;end while(O)/((-52+0x751))==510 do O=(7638)while(-0x29+94)<f do O-= O local f;local O;O=l[P];f=h[l[p]];h[O+1]=f;h[O]=f[l[t]];o=o+b;l=k[o];h[l[F]]=l[d];o=o+b;l=k[o];O=l[n]h[O]=h[O](i(h,O+b,l[B]))o=o+b;l=k[o];h[l[P]]=r[l[e]];o=o+b;l=k[o];h[l[M]]=h[l[e]][l[w]];o=o+b;l=k[o];h[l[m]]=h[l[e]][l[U]];o=o+b;l=k[o];h[l[n]]=h[l[e]][l[c]];o=o+b;l=k[o];h[l[P]]=h[l[p]][h[l[x]]];o=o+b;l=k[o];h[l[M]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[m]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[P]]=h[l[d]][l[t]];o=o+b;l=k[o];h[l[H]][l[B]]=l[w];break end while(O)/((0x90+-87))==134 do local b=l[H];local O=h[b]local k=h[b+2];if(k>0)then if(O>h[b+1])then o=l[a];else h[b+3]=O;end elseif(O<h[b+1])then o=l[d];else h[b+3]=O;end break end;break;end break;end while 3712==(O)/((0x3570/171))do O=(50058)while(-127+0xb7)>=f do O-= O O=(1669888)while f>(139-0x54)do O-= O h[l[P]]={};break end while 1186==(O)/((2864-0x5b0))do h[l[M]]={};break end;break;end while 103==(O)/((-84+(-39+0x261)))do O=(5299014)while(147+-0x5a)<f do O-= O h[l[H]]=r[l[d]];break end while 1491==(O)/((0xe39+-87))do local f;local O;O=l[F];f=h[l[B]];h[O+1]=f;h[O]=f[l[U]];o=o+b;l=k[o];h[l[M]]=l[p];o=o+b;l=k[o];O=l[F]h[O]=h[O](i(h,O+b,l[d]))o=o+b;l=k[o];h[l[M]]=h[l[p]][l[x]];o=o+b;l=k[o];h[l[M]]=h[l[a]][l[U]];o=o+b;l=k[o];h[l[M]]=h[l[B]][l[U]];o=o+b;l=k[o];h[l[M]]=h[l[p]][l[x]];o=o+b;l=k[o];h[l[n]]=h[l[e]][l[c]];o=o+b;l=k[o];h[l[H]]=h[l[e]][l[w]];o=o+b;l=k[o];h[l[M]]=h[l[e]]-h[l[_]];o=o+b;l=k[o];h[l[P]]=h[l[d]][l[w]];o=o+b;l=k[o];h[l[n]]=r[l[p]];o=o+b;l=k[o];if(h[l[M]]<h[l[c]])then o=l[B];else o=o+K;end;break end;break;end break;end break;end break;end break;end break;end while(O)/((0x204e7/117))==431 do O=(1351092)while(8624/(-0x29+139))>=f do O-= O O=(7764080)while f<=(14016/(0x300/4))do O-= O O=(1309472)while(192+(-0x8e+15))>=f do O-= O O=(6366615)while(0xca-141)>=f do O-= O O=(600210)while f<=(0xbe-131)do O-= O do return h[l[H]]end break;end while(O)/((-0x39+1596))==390 do O=(1011296)while(175+(-0x33+-64))<f do O-= O S[l[e]]=h[l[P]];break end while 1859==(O)/((0x4a1-641))do local o=l[P]h[o]=h[o](i(h,o+b,l[B]))break end;break;end break;end while 1691==(O)/((-59+0xef0))do O=(252450)while f<=((237+-0x54)+-90)do O-= O O=(3858152)while(12772/0xce)<f do O-= O h[l[m]]=u(s[l[L]],nil,r);break end while 2302==(O)/(((7014-0xdd6)-0x704))do if(h[l[m]]==h[l[x]])then o=o+K;else o=l[p];end;break end;break;end while 765==(O)/((-45+0x177))do O=(7027560)while(175-0x6f)<f do O-= O h[l[m]]=h[l[e]][l[x]];break end while(O)/(((0xfd2+-84)-0x7e6))==3615 do local f;local O;O=l[H];f=h[l[e]];h[O+1]=f;h[O]=f[l[w]];o=o+b;l=k[o];h[l[m]]=l[p];o=o+b;l=k[o];O=l[M]h[O]=h[O](i(h,O+b,l[L]))o=o+b;l=k[o];h[l[M]]=r[l[L]];o=o+b;l=k[o];h[l[H]]=h[l[d]][l[c]];o=o+b;l=k[o];h[l[m]]=h[l[p]][l[x]];o=o+b;l=k[o];h[l[n]]=h[l[a]][l[c]];o=o+b;l=k[o];h[l[F]]=h[l[d]][h[l[_]]];o=o+b;l=k[o];h[l[M]]=h[l[L]][l[x]];o=o+b;l=k[o];h[l[M]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[n]]=h[l[d]][l[x]];o=o+b;l=k[o];h[l[n]]=h[l[d]][l[_]];o=o+b;l=k[o];h[l[M]][l[e]]=l[_];break end;break;end break;end break;end while 542==(O)/((0x4ddc0/132))do O=(1389752)while(185-0x74)>=f do O-= O O=(10821417)while((0x133+-51)-189)>=f do O-= O O=(2160615)while(0x98-86)<f do O-= O local l=l[n]h[l](h[l+K])break end while 629==(O)/((711045/(0x7bb7/153)))do local f;local O;O=l[P];f=h[l[e]];h[O+1]=f;h[O]=f[l[_]];o=o+b;l=k[o];h[l[H]]=l[B];o=o+b;l=k[o];O=l[M]h[O]=h[O](i(h,O+b,l[d]))o=o+b;l=k[o];h[l[P]]=h[l[a]][l[c]];o=o+b;l=k[o];h[l[P]]=h[l[d]][l[U]];o=o+b;l=k[o];h[l[P]]=h[l[e]][l[t]];o=o+b;l=k[o];O=l[M];f=h[l[B]];h[O+1]=f;h[O]=f[l[x]];o=o+b;l=k[o];O=l[M]h[O](h[O+K])break end;break;end while 3977==(O)/((0x4a67/7))do O=(1378181)while(-0x22+102)<f do O-= O h[l[F]]=h[l[L]]%l[c];break end while(O)/((0x1866a/242))==3337 do h[l[H]]=(l[B]~=0);break end;break;end break;end while 1162==(O)/((-67+0x4ef))do O=(1489194)while((201+-0x53)+-0x2f)>=f do O-= O O=(13094181)while(236-0xa6)<f do O-= O local M;local f;local O;h[l[P]]=l[e];o=o+b;l=k[o];h[l[n]]=l[a];o=o+b;l=k[o];h[l[m]]=#h[l[a]];o=o+b;l=k[o];h[l[P]]=l[a];o=o+b;l=k[o];O=l[P];f=h[O]M=h[O+2];if(M>0)then if(f>h[O+1])then o=l[p];else h[O+3]=f;end elseif(f<h[O+1])then o=l[p];else h[O+3]=f;end break end while(O)/((0x201e-4139))==3207 do local f;local O;h[l[H]]=(l[d]~=0);o=o+b;l=k[o];h[l[P]]=r[l[B]];o=o+b;l=k[o];O=l[M];f=h[l[e]];h[O+1]=f;h[O]=f[l[x]];o=o+b;l=k[o];h[l[m]]=l[d];o=o+b;l=k[o];O=l[P]h[O]=h[O](i(h,O+b,l[e]))o=o+b;l=k[o];h[l[m]]=h[l[p]][l[c]];o=o+b;l=k[o];h[l[H]]=h[l[e]][l[U]];o=o+b;l=k[o];h[l[M]]=h[l[B]][l[U]];o=o+b;l=k[o];O=l[P];f=h[l[B]];h[O+1]=f;h[O]=f[l[t]];o=o+b;l=k[o];h[l[n]]=h[l[e]];o=o+b;l=k[o];h[l[F]]=h[l[e]];o=o+b;l=k[o];O=l[F]h[O](i(h,O+K,l[d]))break end;break;end while 3339==(O)/((0xecf0/136))do O=(2880045)while f>(-0x6f+183)do O-= O local b=l[H];local o=h[l[L]];h[b+1]=o;h[b]=o[l[t]];break end while 2583==(O)/((-0x17+1138))do local b=l[M];local k=h[b+2];local O=h[b]+k;h[b]=O;if(k>0)then if(O<=h[b+1])then o=l[e];h[b+3]=O;end elseif(O>=h[b+1])then o=l[p];h[b+3]=O;end break end;break;end break;end break;end break;end while(O)/((-96+0x9e8))==3182 do O=(131974)while(201+-0x79)>=f do O-= O O=(12336016)while(0x6a+-30)>=f do O-= O O=(4742500)while f<=(0x221c/118)do O-= O local o=l[P]h[o](i(h,o+K,l[B]))break;end while 1897==(O)/((0x13f8-2612))do O=(3647284)while f>(206-0x83)do O-= O do return end;break end while(O)/((6974-0xdb3))==1052 do S[l[L]]=h[l[m]];break end;break;end break;end while 3553==(O)/((3489+-0x11))do O=(4253032)while(0x17c4/78)>=f do O-= O O=(3992880)while(96+-0x13)<f do O-= O if(h[l[P]]==l[w])then o=o+K;else o=l[a];end;break end while 1048==(O)/((0x2ca60/48))do if not h[l[M]]then o=o+K;else o=l[a];end;break end;break;end while 1756==(O)/((0x134f-(287394/0x72)))do O=(2971948)while(96+-0x11)<f do O-= O h[l[m]]=h[l[p]];break end while(O)/((107380/(0x114-146)))==3598 do local O;local f;local w,t;local c;local O;h[l[P]]=l[B];o=o+b;l=k[o];r[l[p]]=h[l[M]];o=o+b;l=k[o];r[l[p]]=h[l[H]];o=o+b;l=k[o];h[l[P]]=r[l[e]];o=o+b;l=k[o];h[l[m]]=r[l[L]];o=o+b;l=k[o];O=l[n];c=h[l[e]];h[O+1]=c;h[O]=c[l[x]];o=o+b;l=k[o];h[l[F]]=l[e];o=o+b;l=k[o];O=l[H]h[O]=h[O](i(h,O+b,l[p]))o=o+b;l=k[o];h[l[m]]=h[l[a]][l[U]];o=o+b;l=k[o];O=l[M];c=h[l[L]];h[O+1]=c;h[O]=c[l[x]];o=o+b;l=k[o];O=l[H]w,t=N(h[O](h[O+K]))C=t+O-b f=0;for l=O,C do f=f+b;h[l]=w[f];end;o=o+b;l=k[o];O=l[P]w={h[O](i(h,O+1,C))};f=0;for l=O,l[U]do f=f+b;h[l]=w[f];end o=o+b;l=k[o];o=l[d];break end;break;end break;end break;end while(O)/((193-0x93))==2869 do O=(1028805)while(0xbe+-106)>=f do O-= O O=(502197)while f<=(205-0x7b)do O-= O O=(3549651)while(0x6d+-28)<f do O-= O local f;local O;h[l[M]]=r[l[a]];o=o+b;l=k[o];h[l[F]]=h[l[B]][l[c]];o=o+b;l=k[o];O=l[m]h[O]=h[O](h[O+K])o=o+b;l=k[o];h[l[m]][l[a]]=h[l[t]];o=o+b;l=k[o];h[l[P]]=r[l[L]];o=o+b;l=k[o];h[l[M]]=h[l[p]][l[_]];o=o+b;l=k[o];O=l[m]h[O]=h[O](h[O+K])o=o+b;l=k[o];h[l[P]][l[d]]=h[l[c]];o=o+b;l=k[o];h[l[m]]=r[l[d]];o=o+b;l=k[o];h[l[H]]=h[l[p]][l[x]];o=o+b;l=k[o];O=l[P]h[O]=h[O](h[O+K])o=o+b;l=k[o];h[l[M]][l[B]]=h[l[c]];o=o+b;l=k[o];h[l[m]]=r[l[B]];o=o+b;l=k[o];h[l[n]]=h[l[L]][l[U]];o=o+b;l=k[o];O=l[H]h[O]=h[O](h[O+K])o=o+b;l=k[o];h[l[M]][l[e]]=h[l[x]];o=o+b;l=k[o];h[l[H]]=r[l[L]];o=o+b;l=k[o];O=l[H];f=h[l[a]];h[O+1]=f;h[O]=f[l[U]];o=o+b;l=k[o];h[l[F]]=l[B];o=o+b;l=k[o];O=l[F]h[O]=h[O](i(h,O+b,l[e]))o=o+b;l=k[o];h[l[m]]=h[l[d]][l[c]];o=o+b;l=k[o];h[l[F]]=h[l[B]][l[c]];o=o+b;l=k[o];h[l[P]]=h[l[e]][l[U]];o=o+b;l=k[o];O=l[F];f=h[l[e]];h[O+1]=f;h[O]=f[l[t]];o=o+b;l=k[o];h[l[m]]=h[l[B]];o=o+b;l=k[o];O=l[M]h[O](i(h,O+K,l[e]))o=o+b;l=k[o];h[l[F]]=r[l[L]];o=o+b;l=k[o];h[l[M]]=l[L];o=o+b;l=k[o];O=l[H]h[O](h[O+K])break end while(O)/((2340-0x4af))==3111 do local O=l[M]local k={h[O](i(h,O+1,C))};local o=0;for l=O,l[c]do o=o+b;h[l]=k[o];end break end;break;end while(O)/((0x1190-2303))==229 do O=(2191720)while(225-0x8e)<f do O-= O local b=l[n];local O=h[b]local k=h[b+2];if(k>0)then if(O>h[b+1])then o=l[d];else h[b+3]=O;end elseif(O<h[b+1])then o=l[L];else h[b+3]=O;end break end while 1396==(O)/((189970/0x79))do local f;local O;h[l[F]]=r[l[e]];o=o+b;l=k[o];O=l[F];f=h[l[a]];h[O+1]=f;h[O]=f[l[c]];o=o+b;l=k[o];h[l[P]]=l[e];o=o+b;l=k[o];O=l[M]h[O]=h[O](i(h,O+b,l[p]))o=o+b;l=k[o];h[l[M]]=r[l[d]];o=o+b;l=k[o];h[l[n]]=h[l[L]][l[U]];o=o+b;l=k[o];h[l[M]]=h[l[e]][l[U]];o=o+b;l=k[o];h[l[m]]=h[l[L]][l[U]];o=o+b;l=k[o];h[l[F]]=h[l[p]][h[l[c]]];o=o+b;l=k[o];h[l[M]]=h[l[a]][l[x]];o=o+b;l=k[o];h[l[m]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[n]]=h[l[B]][l[t]];o=o+b;l=k[o];h[l[P]]=h[l[a]][l[w]];o=o+b;l=k[o];if(h[l[n]]==l[_])then o=o+K;else o=l[B];end;break end;break;end break;end while 3205==(O)/((-54+(0xbcf7/129)))do O=(194565)while((27-0x37)+114)>=f do O-= O O=(1598625)while(17680/0xd0)<f do O-= O h[l[F]]=h[l[d]]-h[l[t]];break end while 1015==(O)/((0x65a+-51))do h[l[P]]=h[l[p]][h[l[c]]];break end;break;end while(O)/((0x2b3b/93))==1635 do O=(106848)while f>(0x21fc/100)do O-= O local b=l[e];local o=h[b]for l=b+1,l[_]do o=o..h[l];end;h[l[F]]=o;break end while(O)/((63600/0x32))==84 do local f;local O;h[l[n]]=h[l[p]][l[t]];o=o+b;l=k[o];O=l[M]h[O]=h[O](h[O+K])o=o+b;l=k[o];h[l[H]]=r[l[d]];o=o+b;l=k[o];O=l[M];f=h[l[d]];h[O+1]=f;h[O]=f[l[_]];o=o+b;l=k[o];h[l[H]]=l[a];o=o+b;l=k[o];O=l[m]h[O]=h[O](i(h,O+b,l[e]))o=o+b;l=k[o];h[l[m]]=h[l[B]][l[_]];o=o+b;l=k[o];h[l[P]]=h[l[p]][l[t]];o=o+b;l=k[o];h[l[P]]=h[l[d]][l[t]];o=o+b;l=k[o];O=l[n];f=h[l[a]];h[O+1]=f;h[O]=f[l[c]];o=o+b;l=k[o];h[l[F]]=h[l[L]];o=o+b;l=k[o];O=l[F]h[O](i(h,O+K,l[L]))break end;break;end break;end break;end break;end break;end while 358==(O)/((0x89496/149))do O=(5735124)while f<=((30+-0x78)+0xc1)do O-= O O=(7685860)while((304+-0x62)+-0x6f)>=f do O-= O O=(2899233)while(0xfa-159)>=f do O-= O O=(11172672)while((-21+0x10c)-0x9e)>=f do O-= O local f;local O;h[l[P]]=r[l[e]];o=o+b;l=k[o];O=l[M];f=h[l[e]];h[O+1]=f;h[O]=f[l[U]];o=o+b;l=k[o];h[l[M]]=l[a];o=o+b;l=k[o];O=l[H]h[O]=h[O](i(h,O+b,l[L]))o=o+b;l=k[o];h[l[F]]=r[l[L]];o=o+b;l=k[o];h[l[m]]=h[l[a]][l[x]];o=o+b;l=k[o];h[l[n]]=h[l[L]][l[_]];o=o+b;l=k[o];h[l[H]]=h[l[p]][l[_]];o=o+b;l=k[o];h[l[P]]=h[l[B]][h[l[c]]];o=o+b;l=k[o];h[l[n]]=h[l[e]][l[_]];o=o+b;l=k[o];h[l[M]]=h[l[d]][l[c]];o=o+b;l=k[o];h[l[P]]=h[l[B]][l[_]];o=o+b;l=k[o];h[l[n]]=h[l[d]][l[w]];o=o+b;l=k[o];O=l[F];f=h[l[e]];h[O+1]=f;h[O]=f[l[_]];break;end while 3423==(O)/((0x19ce-3342))do O=(1528944)while f>(218-0x80)do O-= O if not h[l[P]]then o=o+K;else o=l[B];end;break end while(O)/(((567528/0xd6)-1380))==1202 do local o=l[P]local k={h[o](i(h,o+1,C))};local O=0;for l=o,l[w]do O=O+b;h[l]=k[O];end break end;break;end break;end while 3977==(O)/((0x334+-91))do O=(4055460)while f<=(4371/0x2f)do O-= O O=(12734375)while f>(-0x2b+135)do O-= O h[l[M]][l[e]]=l[c];break end while 4075==(O)/((3223+-0x62))do h[l[F]][h[l[L]]]=h[l[U]];break end;break;end while 1052==(O)/((0x1e71-3938))do O=(9010250)while(0xd8-122)<f do O-= O h[l[n]]=h[l[L]][h[l[x]]];break end while 2875==(O)/((0x89b98/180))do local O;h[l[F]]=h[l[L]][l[x]];o=o+b;l=k[o];h[l[H]]=h[l[B]][l[_]];o=o+b;l=k[o];h[l[m]]=h[l[B]][l[c]];o=o+b;l=k[o];h[l[n]]=h[l[e]][l[t]];o=o+b;l=k[o];O=l[P]h[O]=h[O](h[O+K])o=o+b;l=k[o];if(h[l[m]]==l[t])then o=o+K;else o=l[L];end;break end;break;end break;end break;end while(O)/((5868-(6009-0xbd1)))==2665 do O=(2149416)while(0xe4-129)>=f do O-= O O=(929632)while(135+-0x26)>=f do O-= O O=(2942811)while f>((-110+0x180e)/0x3f)do O-= O h[l[F]]();break end while(O)/((0x1e25-3910))==773 do h[l[M]]=(l[d]~=0);o=o+K;break end;break;end while(O)/((0xa92+-65))==352 do O=(4015984)while(245-0x93)<f do O-= O h[l[M]][l[d]]=l[c];break end while 1288==(O)/((0x1889-3163))do h[l[P]][l[L]]=h[l[t]];break end;break;end break;end while(O)/((-76+0xb95))==744 do O=(1345071)while f<=(-105+0xce)do O-= O O=(2137542)while(0x4844/185)<f do O-= O local O;local f;local S,u;local D;local O;h[l[M]]=r[l[B]];o=o+b;l=k[o];O=l[m];D=h[l[e]];h[O+1]=D;h[O]=D[l[x]];o=o+b;l=k[o];h[l[n]]=l[e];o=o+b;l=k[o];O=l[P]h[O]=h[O](i(h,O+b,l[a]))o=o+b;l=k[o];h[l[M]]=r[l[L]];o=o+b;l=k[o];h[l[m]]=h[l[e]][l[_]];o=o+b;l=k[o];h[l[M]]=h[l[p]][l[x]];o=o+b;l=k[o];h[l[M]]=h[l[p]][l[U]];o=o+b;l=k[o];h[l[P]]=h[l[p]][h[l[t]]];o=o+b;l=k[o];h[l[P]]=h[l[p]][l[c]];o=o+b;l=k[o];h[l[m]]=h[l[B]][l[t]];o=o+b;l=k[o];h[l[F]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[M]]=h[l[d]][l[x]];o=o+b;l=k[o];h[l[m]]=h[l[a]][l[w]];o=o+b;l=k[o];h[l[H]]=h[l[p]][l[c]];o=o+b;l=k[o];h[l[M]]=h[l[e]][l[w]];o=o+b;l=k[o];O=l[n];D=h[l[B]];h[O+1]=D;h[O]=D[l[x]];o=o+b;l=k[o];O=l[H]S,u=N(h[O](h[O+K]))C=u+O-b f=0;for l=O,C do f=f+b;h[l]=S[f];end;o=o+b;l=k[o];O=l[n]S={h[O](i(h,O+1,C))};f=0;for l=O,l[c]do f=f+b;h[l]=S[f];end o=o+b;l=k[o];o=l[d];break end while 1529==(O)/((-0x32+1448))do h[l[n]]=#h[l[e]];break end;break;end while 379==(O)/((0xe23+-70))do O=(6612452)while(120+-0x12)<f do O-= O h[l[n]]=h[l[L]]-h[l[c]];break end while 2156==(O)/((0xc4f+-84))do local O;local f;local F,x;local e;local O;h[l[m]]=r[l[a]];o=o+b;l=k[o];O=l[M];e=h[l[B]];h[O+1]=e;h[O]=e[l[U]];o=o+b;l=k[o];h[l[m]]=l[B];o=o+b;l=k[o];O=l[n]h[O]=h[O](i(h,O+b,l[p]))o=o+b;l=k[o];h[l[P]]=h[l[B]][l[w]];o=o+b;l=k[o];O=l[H];e=h[l[d]];h[O+1]=e;h[O]=e[l[c]];o=o+b;l=k[o];O=l[P]F,x=N(h[O](h[O+K]))C=x+O-b f=0;for l=O,C do f=f+b;h[l]=F[f];end;o=o+b;l=k[o];O=l[m]F={h[O](i(h,O+1,C))};f=0;for l=O,l[w]do f=f+b;h[l]=F[f];end o=o+b;l=k[o];o=l[L];break end;break;end break;end break;end break;end while(O)/((0x13ce-2559))==2284 do O=(2948515)while f<=(0xe5+-119)do O-= O O=(2309899)while f<=(-48+0x9a)do O-= O O=(7632573)while f<=(0xab+(-48+-0x13))do O-= O h[l[H]]=l[e];break;end while(O)/((67183/0x17))==2613 do O=(7147170)while(7350/0x46)<f do O-= O local f;local O;O=l[P]h[O](h[O+K])o=o+b;l=k[o];h[l[m]]=r[l[e]];o=o+b;l=k[o];O=l[P];f=h[l[a]];h[O+1]=f;h[O]=f[l[x]];o=o+b;l=k[o];h[l[P]]=l[L];o=o+b;l=k[o];O=l[P]h[O]=h[O](i(h,O+b,l[p]))o=o+b;l=k[o];h[l[P]]=r[l[B]];o=o+b;l=k[o];h[l[F]]=h[l[a]][l[t]];o=o+b;l=k[o];h[l[H]]=h[l[p]][l[c]];o=o+b;l=k[o];h[l[H]]=h[l[e]][l[c]];o=o+b;l=k[o];h[l[H]]=h[l[L]][h[l[t]]];o=o+b;l=k[o];h[l[H]]=h[l[a]][l[t]];o=o+b;l=k[o];h[l[P]]=h[l[a]][l[c]];o=o+b;l=k[o];h[l[m]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[n]]=h[l[L]][l[U]];o=o+b;l=k[o];if(h[l[H]]==l[w])then o=o+K;else o=l[e];end;break end while(O)/((5636-0xb27))==2570 do local O=l[H];local f=l[w];local k=O+2 local O={h[O](h[O+1],h[k])};for l=1,f do h[k+l]=O[l];end;local O=O[1]if O then h[k]=O o=l[a];else o=o+b;end;break end;break;end break;end while 2173==(O)/((2151-0x440))do O=(696306)while f<=(0x1df4/71)do O-= O O=(5263425)while(0x1ac/(128-0x7c))<f do O-= O local O;local f;local t,D;local a;local O;h[l[F]]=r[l[p]];o=o+b;l=k[o];O=l[M];a=h[l[p]];h[O+1]=a;h[O]=a[l[U]];o=o+b;l=k[o];h[l[F]]=l[d];o=o+b;l=k[o];O=l[H]h[O]=h[O](i(h,O+b,l[L]))o=o+b;l=k[o];h[l[m]]=h[l[e]][l[x]];o=o+b;l=k[o];h[l[H]]=r[l[L]];o=o+b;l=k[o];h[l[H]]=h[l[e]][l[_]];o=o+b;l=k[o];h[l[P]]=h[l[B]][l[w]];o=o+b;l=k[o];h[l[n]]=h[l[B]][l[x]];o=o+b;l=k[o];h[l[F]]=h[l[L]][h[l[U]]];o=o+b;l=k[o];O=l[F];a=h[l[d]];h[O+1]=a;h[O]=a[l[c]];o=o+b;l=k[o];O=l[M]t,D=N(h[O](h[O+K]))C=D+O-b f=0;for l=O,C do f=f+b;h[l]=t[f];end;o=o+b;l=k[o];O=l[M]t={h[O](i(h,O+1,C))};f=0;for l=O,l[U]do f=f+b;h[l]=t[f];end o=o+b;l=k[o];o=l[L];break end while(O)/((49455/(113-0x4e)))==3725 do local l=l[F]h[l]=h[l](h[l+K])break end;break;end while(O)/((0x30a46/194))==678 do O=(227976)while f>(0x150-227)do O-= O if(h[l[F]]==h[l[t]])then o=o+K;else o=l[B];end;break end while(O)/((14214/0xce))==3304 do r[l[L]]=h[l[M]];o=o+b;l=k[o];h[l[H]]={};o=o+b;l=k[o];h[l[H]]={};o=o+b;l=k[o];r[l[p]]=h[l[H]];o=o+b;l=k[o];h[l[m]]=r[l[d]];o=o+b;l=k[o];if(h[l[H]]~=l[w])then o=o+K;else o=l[B];end;break end;break;end break;end break;end while 757==(O)/((0x1e90-3929))do O=(4383194)while f<=(10260/0x5a)do O-= O O=(2018560)while f<=(-30+0x8e)do O-= O O=(6764300)while f>(0xe0+-113)do O-= O if(h[l[n]]~=l[x])then o=o+K;else o=l[d];end;break end while 2941==(O)/((-68+0x940))do h[l[n]]();break end;break;end while(O)/((0x44259/177))==1280 do O=(2430184)while(196+(-0x71+30))<f do O-= O local O;local f;local e,p;local M;local O;h[l[m]]=r[l[L]];o=o+b;l=k[o];O=l[P];M=h[l[B]];h[O+1]=M;h[O]=M[l[t]];o=o+b;l=k[o];h[l[P]]=l[L];o=o+b;l=k[o];O=l[n]h[O]=h[O](i(h,O+b,l[a]))o=o+b;l=k[o];h[l[F]]=h[l[a]][l[t]];o=o+b;l=k[o];O=l[H];M=h[l[a]];h[O+1]=M;h[O]=M[l[c]];o=o+b;l=k[o];O=l[F]e,p=N(h[O](h[O+K]))C=p+O-b f=0;for l=O,C do f=f+b;h[l]=e[f];end;o=o+b;l=k[o];O=l[m]e={h[O](i(h,O+1,C))};f=0;for l=O,l[c]do f=f+b;h[l]=e[f];end o=o+b;l=k[o];o=l[L];break end while 1336==(O)/((-120+(0x7c7+-52)))do do return end;break end;break;end break;end while(O)/((3150-0x65b))==2878 do O=(4984259)while(14500/(0x13e-193))>=f do O-= O O=(2409837)while(0x5401/187)<f do O-= O h[l[M]]=l[a];break end while 717==(O)/((3424+-0x3f))do local f=s[l[p]];local O;local b={};O=J({},{__index=function(o,l)local l=b[l];return l[1][l[2]];end,__newindex=function(h,l,o)local l=b[l]l[1][l[2]]=o;end;});for O=1,l[x]do o=o+K;local l=k[o];if l[(0x48+-71)]==80 then b[O-1]={h,l[d]};else b[O-1]={S,l[e]};end;v[#v+1]=b;end;h[l[M]]=u(f,O,r);break end;break;end while 3997==(O)/((0x22b4e/114))do O=(2818339)while(-119+0xec)<f do O-= O local f;local O;h[l[m]]=h[l[p]][l[c]];o=o+b;l=k[o];O=l[M]h[O]=h[O](h[O+K])o=o+b;l=k[o];h[l[F]]=r[l[L]];o=o+b;l=k[o];O=l[P];f=h[l[p]];h[O+1]=f;h[O]=f[l[w]];o=o+b;l=k[o];h[l[F]]=l[a];o=o+b;l=k[o];O=l[F]h[O]=h[O](i(h,O+b,l[L]))o=o+b;l=k[o];h[l[m]]=h[l[a]][l[_]];o=o+b;l=k[o];h[l[H]]=h[l[B]][l[_]];o=o+b;l=k[o];h[l[H]]=h[l[p]][l[x]];o=o+b;l=k[o];O=l[m];f=h[l[a]];h[O+1]=f;h[O]=f[l[c]];o=o+b;l=k[o];h[l[P]]=h[l[p]];o=o+b;l=k[o];O=l[m]h[O](i(h,O+K,l[e]))break end while 2207==(O)/((0x542+-69))do h[l[m]]=h[l[B]]%l[x];break end;break;end break;end break;end break;end break;end break;end o+= K end;end);end;return u(j(),{},Y())()end)_msec({[(276-0x93)]='\115\116'..(function(l)return(l and'(4500/0x2d)')or'\114\105'or'\120\58'end)((115-0x6e)==(0x1b0/72))..'\110g',[(45384/0x3d)]='\108\100'..(function(l)return(l and'(-0x2f+147)')or'\101\120'or'\119\111'end)((960/0xc0)==(0x6d+-103))..'\112',[(-0x45+361)]=(function(l)return(l and'((608-0x165)-0x97)')and'\98\121'or'\100\120'end)((-46+0x33)==(0x4a+-69))..'\116\101',[(0x591e/61)]='\99'..(function(l)return(l and'(217-0x75)')and'\90\19\157'or'\104\97'end)((0x230/112)==(0x6/2))..'\114',[(74365/0x8b)]='\116\97'..(function(l)return(l and'(20300/0xcb)')and'\64\113'or'\98\108'end)((0x80-122)==(73-0x44))..'\101',[((-0x6a+603)+-77)]=(function(l)return(l and'(1500/0xf)')or'\115\117'or'\78\107'end)((0x29-38)==(0xf80/128))..'\98',[(0x25fda/182)]='\99\111'..(function(l)return(l and'(-20+0x78)')and'\110\99'or'\110\105\103\97'end)((0x92+-115)==(100+-0x45))..'\97\116',[(0xf1d9/101)]=(function(l,o)return(l and'(-0x79+221)')and'\48\159\158\188\10'or'\109\97'end)((77-0x48)==(-22+0x1c))..'\116\104',[(1368+-0x2a)]=(function(o,l)return((-0x2e+51)==(45-0x2a)and'\48'..'\195'or o..((not'\20\95\69'and'\90'..'\180'or l)))or'\199\203\95'end),[(2019-0x42a)]='\105\110'..(function(l,o)return(l and'(0x3cf0/156)')and'\90\115\138\115\15'or'\115\101'end)((0x316/(419-0x105))==(0x68+-73))..'\114\116',[(271152/0xfc)]='\117\110'..(function(l,o)return(l and'(0xbf+-91)')or'\112\97'or'\20\38\154'end)((0x36+-49)==(98+-0x43))..'\99\107',[(175526/0x9d)]='\115\101'..(function(l)return(l and'((24486-0x2ffe)/122)')and'\110\112\99\104'or'\108\101'end)((0x3ed/201)==(3410/0x6e))..'\99\116',[(1276+-0x33)]='\116\111\110'..(function(l,o)return(l and'(278-0xb2)')and'\117\109\98'or'\100\97\120\122'end)((56+-0x33)==(0x38-51))..'\101\114'},{[((-0x283c/206)+0x59)]=((getfenv))},((getfenv))()) end)()
+local stack, top
+local environment
+local IP = 1;
+local vararg, vararg_size 
 
+local opcode_funcs = {
+[0]  = function(instruction)
+stack[instruction.A] = stack[instruction.B];
+end,
+[1]  = function(instruction)
+stack[instruction.A] = constants[instruction.Bx].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI;
+end,
+[2]  = function(instruction)
+stack[instruction.A] = instruction.B ~= 0
+if instruction.C ~= 0 then
+IP = IP + 1
+end
+end,
+[3]  = function(instruction)
+local stack = stack
+for i = instruction.A, instruction.B do
+stack[i] = nil
+end
+end,
+[4] = function(instruction)
+stack[instruction.A] = upvalues[instruction.B]
+end,
+[5]  = function(instruction)
+local key = constants[instruction.Bx].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI;
+stack[instruction.A] = environment[key];
+end,
+[6]  = function(instruction)
+local C = instruction.C
+local stack = stack
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C]
+stack[instruction.A] = stack[instruction.B][C];
+end,
+[7]  = function(instruction)
+local key = constants[instruction.Bx].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI;
+environment[key] = stack[instruction.A];
+end,
+[8] = function (instruction)
+upvalues[instruction.B] = stack[instruction.A]
+end,
+[9] = function (instruction)
+local B = instruction.B;
+local C = instruction.C;
+local stack, constants = stack, constants;
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B];
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C];
+stack[instruction.A][B] = C
+end,
+[10] = function (instruction)
+stack[instruction.A] = {}
+end,
+[11] = function (instruction)
+local A = instruction.A
+local B = instruction.B
+local C = instruction.C
+local stack = stack
+B = stack[B]
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C]
+stack[A+1] = B
+stack[A]   = B[C]
+end,
+[12] = function(instruction)
+local B = instruction.B;
+local C = instruction.C;
+local stack, constants = stack, constants;
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B];
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C];
+stack[instruction.A] = B+C;
+end,
+[13] = function(instruction)
+local B = instruction.B;
+local C = instruction.C;
+local stack, constants = stack, constants;
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B];
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C];
+stack[instruction.A] = B - C;
+end,
+[14] = function(instruction)
+local B = instruction.B;
+local C = instruction.C;
+local stack, constants = stack, constants;
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B];
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C];
+stack[instruction.A] = B * C;
+end,
+[15] = function(instruction)
+local B = instruction.B;
+local C = instruction.C;
+local stack, constants = stack, constants;
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B];
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C];
+stack[instruction.A] = B / C;
+end,
+[16] = function(instruction)
+local B = instruction.B;
+local C = instruction.C;
+local stack, constants = stack, constants;
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B];
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C];
+stack[instruction.A] = B % C;
+end,
+[17] = function(instruction)
+local B = instruction.B;
+local C = instruction.C;
+local stack, constants = stack, constants;
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B];
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C];
+stack[instruction.A] = B ^ C;
+end,
+[18] = function(instruction)
+stack[instruction.A] = -stack[instruction.B]
+end,
+[19] = function(instruction)
+stack[instruction.A] = not stack[instruction.B]
+end,
+[20] = function(instruction)
+stack[instruction.A] = #stack[instruction.B]
+end,
+[21] = function(instruction)
+local B = instruction.B
+local result = stack[B]
+for i = B+1, instruction.C do
+result = result .. stack[i] 
+end
+stack[instruction.A] = result
+end,
+[22] = function(instruction)
+IP = IP + instruction.sBx
+end,
+[23] = function(instruction)
+local A = instruction.A
+local B = instruction.B
+local C = instruction.C
+local stack, constants = stack, constants
+A = A ~= 0
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B]
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C]
+if (B == C) ~= A then
+IP = IP + 1
+end
+end,
+[24] = function(instruction)
+local A = instruction.A
+local B = instruction.B
+local C = instruction.C
+local stack, constants = stack, constants
+A = A ~= 0
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B]
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C]
+if (B < C) ~= A then
+IP = IP + 1
+end
+end,
+[25] = function(instruction)
+local A = instruction.A
+local B = instruction.B
+local C = instruction.C
+local stack, constants = stack, constants
+A = A ~= 0
+B = B > 255 and constants[B-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[B]
+C = C > 255 and constants[C-256].llIIlIlIIllllIlIlIlIIlIlIlIllllIllI or stack[C]
+if (B <= C) ~= A then
+IP = IP + 1
+end
+end,
+[26] = function(instruction)
+if stack[instruction.A] == (instruction.C ~= 0) then
+IP = IP + 1
+end
+end,
+[27] = function(instruction)
+local stack = stack
+local B = stack[instruction.B]
+if B == (instruction.C ~= 0) then
+IP = IP + 1
+else
+stack[instruction.A] = B
+end
+end,
+[28] = function(instruction)
+local A = instruction.A;
+local B = instruction.B;
+local C = instruction.C;
+local stack = stack;
+local args, results;
+local limit, loop
+args = {};
+if B ~= 1 then
+if B ~= 0 then
+limit = A+B-1;
+else
+limit = top
+end
+loop = 0
+for i = A+1, limit do
+loop = loop + 1
+args[loop] = stack[i];
+end
+limit, results = handle_return(stack[A](unpack(args, 1, limit-A)))
+else
+limit, results = handle_return(stack[A]())
+end
+top = A - 1
+if C ~= 1 then
+if C ~= 0 then
+limit = A+C-2;
+else
+limit = limit+A
+end
+loop = 0;
+for i = A, limit do
+loop = loop + 1;
+stack[i] = results[loop];
+end
+end
+end,
+[29] = function (instruction)
+local A = instruction.A;
+local B = instruction.B;
+local C = instruction.C;
+local stack = stack;
+local args, results;
+local top, limit, loop = top
+args = {};
+if B ~= 1 then
+if B ~= 0 then
+limit = A+B-1;
+else
+limit = top
+end
+loop = 0
+for i = A+1, limit do
+loop = loop + 1
+args[#args+1] = stack[i];
+end
+results = {stack[A](unpack(args, 1, limit-A))};
+else
+results = {stack[A]()};
+end
+return true, results
+end,
+[30] = function(instruction)
+local A = instruction.A;
+local B = instruction.B;
+local stack = stack;
+local limit;
+local loop, IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI;
+if B == 1 then
+return true;
+end
+if B == 0 then
+limit = top
+else
+limit = A + B - 2;
+end
+IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI = {};
+local loop = 0
+for i = A, limit do
+loop = loop + 1
+IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI[loop] = stack[i];
+end
+return true, IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI;
+end,
+[31] = function(instruction)
+local A = instruction.A
+local stack = stack
+local step = stack[A+2]
+local index = stack[A] + step 
+stack[A] = index
+if step > 0 then
+if index <= stack[A+1] then
+IP = IP + instruction.sBx
+stack[A+3] = index
+end
+else
+if index >= stack[A+1] then
+IP = IP + instruction.sBx
+stack[A+3] = index
+end
+end
+end,
+[32] = function(instruction)
+local A = instruction.A
+local stack = stack
+stack[A] = stack[A] - stack[A+2]
+IP = IP + instruction.sBx 
+end,
+[33] = function(instruction)
+local A = instruction.A
+local B = instruction.B
+local C = instruction.C
+local stack = stack
+local offset = A+2
+local result = {stack[A](stack[A+1], stack[A+2])}
+for i = 1, C do
+stack[offset+i] = result[i]
+end
+if stack[A+3] ~= nil then
+stack[A+2] = stack[A+3]
+else
+IP = IP + 1
+end
+end,
+[34] = function(instruction)
+local A = instruction.A
+local B = instruction.B
+local C = instruction.C
+local stack = stack
+if C == 0 then
+error("NYI: extended SETLIST")
+else
+local offset = (C - 1) * 50
+local t = stack[A]
+if B == 0 then
+B = top
+end
+for i = 1, B do
+t[offset+i] = stack[A+i]
+end
+end
+end,
+[35] = function(instruction)
+io.stderr:write("NYI: CLOSE")
+io.stderr:flush()
+end,
+[36] = function(instruction)
+local proto = prototypes[instruction.Bx]
+local instructions = instructions
+local stack = stack
+local indices = {}
+local new_upvals = setmetatable({},
+{
+__index = function(t, k)
+local upval = indices[k]
+return upval.segment[upval.offset]
+end,
+__newindex = function(t, k, v)
+local upval = indices[k]
+upval.segment[upval.offset] = v
+end
+}
+)
+for i = 1, proto.upvalues do
+local movement = instructions[IP]
+if movement.opcode == 0 then
+indices[i-1] = {segment = stack, offset = movement.B}
+elseif instructions[IP].opcode == 4 then
+indices[i-1] = {segment = upvalues, offset = movement.B}
+end
+IP = IP + 1
+end
+local _, func = IIllIllIlIIIIIIIIllIlIIIIlllIIIIIIl(proto, new_upvals)
+stack[instruction.A] = func
+end,
+[37] = function(instruction)
+local A = instruction.A
+local B = instruction.B
+local stack, vararg = stack, vararg
 
+for i = A, A + (B > 0 and B - 1 or vararg_size) do
+stack[i] = vararg[i - A]
+end
+end,
+}
+local function loop()
+local instructions = instructions
+local instruction, a, b
+while true do
+instruction = instructions[IP];
+IP = IP + 1
+a, b = opcode_funcs[instruction.opcode](instruction);
+if a then
+return b;
+end
+end
+end
+local IIIIIIIlIlIIlllIIlIlIIIllIIlIIIlIlI = {
+get_stack = function()
+return stack;
+end;
+get_IP = function()
+return IP;
+end
+};
+local function func(...)
+local local_stack = {};
+local ghost_stack = {};
+top = -1
+stack = setmetatable(local_stack, {
+__index = ghost_stack;
+__newindex = function(t, k, v)
+if k > top and v then
+top = k
+end
+ghost_stack[k] = v
+end;
+})
+local args = {...};
+vararg = {}
+vararg_size = select("#", ...) - 1
+for i = 0, vararg_size do
+local_stack[i] = args[i+1];
+vararg[i] = args[i+1]
+end
+environment = getfenv();
+IP = 1;
+local thread = coroutine.create(loop)
+local a, b = coroutine.resume(thread)
+if a then
+if b then
+return unpack(b);
+end
+return;
+else
+local name = IIllIlIIIlIlllllIIIlIIlllllIllllIlI.name;
+local line = IIllIlIIIlIlllllIIIlIIlllllIllllIlI.debug.lines[IP];
+local err  = b:gsub("(.-:)", "");
+local IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI = "";
+IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI = IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI .. (name and name .. ":" or "");
+IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI = IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI .. (line and line .. ":" or "");
+IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI = IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI .. b
+error(IlllIlIIIIIlIIIlIllIIIIlIllIllIlIlI, 0);
+end
+end
+return IIIIIIIlIlIIlllIIlIlIIIllIIlIIIlIlI, func;
+end
+local lIlIlIlIlIllIIIllIlIIlllIIlllIlIIII = {
+IlIIIIIIlIllIIlIlIIIllIllIIlllIllll = function(IlIlllllllIllIlIllIlIlllIIIIIlIIlll)
+local IIllIlIIIlIlllllIIIlIIlllllIllllIlI = lIlIIIlllIlIIIIlIIIllIlIIIIIlIlIlll(IlIlllllllIllIlIllIlIlllIIIIIlIIlll);
+local _, func = IIllIllIlIIIIIIIIllIlIIIIlllIIIIIIl(IIllIlIIIlIlllllIIIlIIlllllIllllIlI);
+return func;
+end;
+utils = {
+lIlIIIlllIlIIIIlIIIllIlIIIIIlIlIlll = lIlIIIlllIlIIIIlIIIllIlIIIIIlIlIlll;
+IIllIllIlIIIIIIIIllIlIIIIlllIIIIIIl = IIllIllIlIIIIIIIIllIlIIIIlllIIIIIIl;
+IlllIIIllIlllIlIIIllllIIllllIIllllI = function(IlIlllllllIllIlIllIlIlllIIIIIlIIlll)
+local IIllIlIIIlIlllllIIIlIIlllllIllllIlI = lIlIIIlllIlIIIIlIIIllIlIIIIIlIlIlll(IlIlllllllIllIlIllIlIlllIIIIIlIIlll)
+return IIllIllIlIIIIIIIIllIlIIIIlllIIIIIIl(IIllIlIIIlIlllllIIIlIIlllllIllllIlI);
+end;
+};
+}
+lIlIlIlIlIllIIIllIlIIlllIIlllIlIIII.IlIIIIIIlIllIIlIlIIIllIllIIlllIllll(table.concat(llIIlIlIIllllIlIlIlIIlIlIlIllllIllI, [[]]))()
