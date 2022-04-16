@@ -1,0 +1,47 @@
+--[[
+███╗   ███╗ █████╗  ██████╗ ██╗   ██╗██╗  ██╗██╗   ██╗██████╗ 
+████╗ ████║██╔══██╗██╔═══██╗██║   ██║██║  ██║██║   ██║██╔══██╗
+██╔████╔██║███████║██║   ██║██║   ██║███████║██║   ██║██████╔╝
+██║╚██╔╝██║██╔══██║██║   ██║██║   ██║██╔══██║██║   ██║██╔══██╗
+██║ ╚═╝ ██║██║  ██║╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
+]]
+_G.Setting  = {
+    ["Distance"] = 8,
+    ["Mode"] = 2,
+    ["Action"] = {
+        ["Action1"] = true,
+        ["Action2"] = true,
+        ["Action3"] = false,
+        ["Action4"] = false,
+        ["Action5"] = false
+    },
+    ["AutoFarm"] = {
+        ["Select Area"] = "Tutorial",
+        ["AutoFarm"] = false,
+    },
+    ["SelectFarm"] = {
+        ["Select Mob"] = "Blob",
+        ["SelectFarm"] = false
+    },
+    ["Drops"] = {
+        ["Tier 0"] = true,
+        ["Tier 1"] = false,
+        ["Tier 2"] = true,
+        ["Tier 3"] = true,
+        ["Tier 4"] = true
+    },
+    ["Player"] = {
+        ["AutoRevive"] = true,
+        ["CollectDrops"] = true,
+        ["FarmDrops"] = false,
+        ["Stats"]  ={
+            ["Strength"] = true,
+            ["Dexterity"] = false,
+            ["Vitality"] = false,
+            ["Intelligence"] = false,
+        },
+        ["AutoStats"] = true
+    }
+}
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MaouStan/WorkScript/main/MeloBlox'))()
