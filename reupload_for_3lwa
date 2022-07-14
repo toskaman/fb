@@ -30,14 +30,14 @@ end
 local function place() -- place function if there is another erwin on the map
 if game:GetService("Workspace")["_wave_num"].Value < getgenv().wavetolose then
 for i, v in next, game:GetService("Workspace")["_UNITS"]:GetChildren() do
-    if v.Name == getgenv().unit then
+    -- if v.Name == getgenv().unit then
         local args = {
     [1] = v._stats.uuid.Value,
     [2] = CFrame.new(-2949.064453125, 91.80620574951172, -698.9860229492188) * CFrame.Angles(0, -0, -0)
 }
 
 game:GetService("ReplicatedStorage").endpoints.client_to_server.spawn_unit:InvokeServer(unpack(args))
-end
+-- end
 end
 end
 end
@@ -57,14 +57,14 @@ end
 
 local function upgrade() -- Upgrades to upgrade 5 and auto upgrades lowest upgraded unit
 for i, v in next, game:GetService("Workspace")["_UNITS"]:GetChildren() do
-    if v.Name == getgenv().unit then
+    -- if v.Name == getgenv().unit then
         if v._stats.upgrade.Value < 20 then 
 local args = {
 [1] = v
   }
 game:GetService("ReplicatedStorage").endpoints.client_to_server.upgrade_unit_ingame:InvokeServer(unpack(args))
 end
-end
+-- end
 end
 end
 
@@ -126,13 +126,13 @@ end
 local function sell()
 if game:GetService("Workspace")["_wave_num"].Value > getgenv().wavetolose -1 then
   for i, v in next, game:GetService("Workspace")["_UNITS"]:GetChildren() do
-  if v.Name == getgenv().unit then
+  -- if v.Name == getgenv().unit then
 local args = {
     [1] = v
 }
 
 game:GetService("ReplicatedStorage").endpoints.client_to_server.sell_unit_ingame:InvokeServer(unpack(args))
-end
+-- end
 end
 end
 end
