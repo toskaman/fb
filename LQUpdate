@@ -1,1 +1,1 @@
-print("This script is now - PRIVATE - and in my paid HUB only, sorry !")
+game.StarterGui:SetCore("SendNotification", {Title = "- HUB -";Text = "This script is now - PRIVATE - and in my paid HUB only, sorry !";Duration = 30;})
