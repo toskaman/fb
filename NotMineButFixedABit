@@ -1,7 +1,7 @@
 -- Anti stuck settings
 getgenv().Anti_Stuck = true
-getgenv().Check_Every = 5
-getgenv().Magnitude = 10
+getgenv().Check_Every = 5 -- Check every 5s
+getgenv().Magnitude = 10 -- Difference between old and new position
 
 --  services
 
@@ -291,7 +291,8 @@ end))
 
 Player.OnTeleport:Connect(function(State)
     if State == Enum.TeleportState.Started then
-        syn.queue_on_teleport([[loadstring(game:HttpGet("https://raw.githubusercontent.com/ObscureScapter/Roblox/main/VTAF"))()]])
+        -- syn.queue_on_teleport([[loadstring(game:HttpGet("https://raw.githubusercontent.com/ObscureScapter/Roblox/main/VTAF"))()]])
+        syn.queue_on_teleport([[loadstring(game:HttpGet("https://raw.githubusercontent.com/toskaman/fb/master/NotMineButFixedABit"))()]])
     end
 end)
 
