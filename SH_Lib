@@ -316,7 +316,7 @@ function ShowerLib2:CreateWindow(Name)
             BorderColor3 = Color3.fromRGB(12, 12, 12);
             Position = UDim2.new(0.190588236, 0, 0.158088237, 0);
             Size = UDim2.new(0, 337, 0, 219);
-            ScrollBarThickness = 3;
+            ScrollBarThickness = 6;
             Visible = Vis;
         })
 
