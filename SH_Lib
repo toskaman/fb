@@ -936,7 +936,7 @@ function ShowerLib2:CreateWindow(Name)
                 Size = UDim2.new(0, 331, 0, ScrollBarSize);
                 ScrollBarThickness = ScrollBarThickness;
                 Visible = false;
-                VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Left;
+                VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Right;
             })
 
             local Layout = ShowerLib2:Create("UIListLayout", {
