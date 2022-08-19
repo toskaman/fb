@@ -316,7 +316,7 @@ function ShowerLib2:CreateWindow(Name)
             BorderColor3 = Color3.fromRGB(12, 12, 12);
             Position = UDim2.new(0.190588236, 0, 0.158088237, 0);
             Size = UDim2.new(0, 337, 0, 219);
-            ScrollBarThickness = 6;
+            ScrollBarThickness = 3;
             Visible = Vis;
         })
 
@@ -877,11 +877,11 @@ function ShowerLib2:CreateWindow(Name)
         function Nigga:AddDrop(Name, Tbl, Callback)
 
             local Dropped = false;
-            local ScrollBarThickness = 6;
+            local ScrollBarThickness = 0;
             local ScrollBarSize = 27;
             local TblSize = table.getn(Tbl);
             if TblSize > 1 then
-                ScrollBarThickness = 6;
+                ScrollBarThickness = 1.5;
             end
 
             if TblSize == 2 then
