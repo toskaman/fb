@@ -877,12 +877,12 @@ function ShowerLib2:CreateWindow(Name)
         function Nigga:AddDrop(Name, Tbl, Callback)
 
             local Dropped = false;
-            local ScrollBarThickness = 0;
+            local ScrollBarThickness = 10;
             local ScrollBarSize = 27;
             local TblSize = table.getn(Tbl);
-            if TblSize > 1 then
-                ScrollBarThickness = 1.5;
-            end
+            -- if TblSize > 1 then
+                -- ScrollBarThickness = 1.5;
+            -- end
 
             if TblSize == 2 then
                 ScrollBarSize = 54
