@@ -1,20 +1,73 @@
+-- make an empty table for your pets equipped
+
+_G.mespetsequiper = {}
+_G.Range = 60 
+_G.AutoFarm = true
+_G.WalkToEnemy = false
+_G.DamageNumber = 1 -- Use 2, not more unless you have a good PC
+
+    local WeaponsInventory = require(game:GetService("ReplicatedStorage").Scripts.Client.Manager.PlayerManager)
 pcall(function()
-local WeaponsInventory = require(game:GetService("ReplicatedStorage").Scripts.Client.Manager.PlayerManager)
-            for _, v in pairs(WeaponsInventory.localPlayerData.gems) do
-                pcall(function()
-                    if v.equipPosition == nil or v.equipPosition == "" then
-                        local args = {
-                            [1] = {
-                                [1] = v.guid,
-                                [2] = v.guid,
-                                [3] = v.guid,
-                                [4] = v.guid,
-                                [5] = v.guid
-                            }
-                        }
-                        game:GetService("ReplicatedStorage").Remotes.FuseGem:InvokeServer(unpack(args))
-                        task.wait()
-                    end
-                end)
+    for _, v in pairs(WeaponsInventory.localPlayerData.heros) do
+        if v.isEquip == true then
+            table.insert(_G.mespetsequiper, v.guid)
+print("Your pet id : " .. tostring(v.guid))
+        end
+    end
+end)
+
+
+ local function getNearestChest()
+        local nearest, dist = nil, _G.Range
+        local localPlayer = Players.LocalPlayer
+        local localCharacter = localPlayer.Character
+        local humanoidRootPart = localCharacter and localCharacter:FindFirstChild("HumanoidRootPart")
+        if not humanoidRootPart then return end
+
+        for _, enemy in pairs(Workspace.Enemys:GetChildren()) do
+            if enemy:FindFirstChild("HumanoidRootPart") and enemy.HumanoidRootPart:FindFirstChild("EnemyNameGui") and enemy.HumanoidRootPart.EnemyNameGui.HealthNum.Text ~= "0" then
+                local distance = (humanoidRootPart.Position - enemy.HumanoidRootPart.Position).magnitude
+                if distance < dist then
+                    dist = distance
+                    nearest = enemy
+                end
             end
-        end)
+        end
+        return nearest
+    end
+
+    spawn(function()
+        while task.wait() do
+            if _G.AutoFarm then
+                local nearestEnemy = getNearestChest()
+
+                if nearestEnemy then
+                    spawn(function()
+                        if _G.WalkToEnemy then
+                            if nearestEnemy:FindFirstChild("HumanoidRootPart") then
+                                player.Character.Humanoid:MoveTo(nearestEnemy.HumanoidRootPart.Position)
+                            end
+                        end
+                    end)
+
+                    spawn(function()
+                        local args = { nearestEnemy:GetAttribute("EnemyGuid") }
+                        ReplicatedStorage.Remotes.ClickEnemy:InvokeServer(unpack(args))
+                        ReplicatedStorage.Remotes.PlayerClickAttack:FireServer(unpack(args))
+                    end)
+
+                        for x = 1, _G.DamageNumber do
+                            for c, d in pairs(_G.mespetsequiper) do
+                                local a = { [1] = { ["heroGuid"] = tostring(d), ["harmIndex"] = 1, ["isSkill"] = false, ["skillId"] = 200003 } }
+                                game:GetService("ReplicatedStorage").Remotes.HeroSkillHarm:FireServer(unpack(a))
+                                local a = { [1] = { ["heroGuid"] = tostring(d), ["harmIndex"] = 1, ["isSkill"] = false, ["skillId"] = 200004 } }
+                                game:GetService("ReplicatedStorage").Remotes.HeroSkillHarm:FireServer(unpack(a))
+                            end
+                        end)
+
+                else
+                    ReplicatedStorage.Remotes.PlayerClickAttack:FireServer()
+                end
+            end
+        end
+    end)
