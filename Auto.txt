@@ -17,7 +17,9 @@ print("Your pet id : " .. tostring(v.guid))
 end)
 
 
- local function getNearestChest()
+    spawn(function()
+	
+	 local function getNearestChest()
         local nearest, dist = nil, _G.Range
         local localPlayer = Players.LocalPlayer
         local localCharacter = localPlayer.Character
@@ -35,8 +37,7 @@ end)
         end
         return nearest
     end
-
-    spawn(function()
+	
         while task.wait() do
             if _G.AutoFarm then
                 local nearestEnemy = getNearestChest()
