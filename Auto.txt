@@ -11,7 +11,6 @@ pcall(function()
     for _, v in pairs(WeaponsInventory.localPlayerData.heros) do
         if v.isEquip == true then
             table.insert(_G.mespetsequiper, v.guid)
-print("Your pet id : " .. tostring(v.guid))
         end
     end
 end)
